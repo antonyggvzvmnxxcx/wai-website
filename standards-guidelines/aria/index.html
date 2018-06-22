@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" prefix="og: http://ogp.me/ns#">
+  <head><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> WAI-ARIA Overview | Web Accessibility Initiative (WAI) | W3C</title>
+  <script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'has-js');
+
+    function downloadJSAtOnload() {
+      var element = document.createElement("script");
+      element.src = "/wai-website/assets/scripts/main.js?1529647930311879577";
+      document.body.appendChild(element);
+    }
+
+    window.addEventListener("load", downloadJSAtOnload, false);
+  </script>
+
+  <link rel="stylesheet" href="/wai-website/assets/css/style.css?1529647930311879577">
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="WAI-ARIA Overview" />
+<meta name="author" content="w3c_wai" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The Website of the World Wide Web Consortium’s Web Accessibility Initiative." />
+<meta property="og:description" content="The Website of the World Wide Web Consortium’s Web Accessibility Initiative." />
+<link rel="canonical" href="https://w3c.github.io/wai-website/standards-guidelines/aria/" />
+<meta property="og:url" content="https://w3c.github.io/wai-website/standards-guidelines/aria/" />
+<meta property="og:site_name" content="Web Accessibility Initiative (WAI)" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@w3c_wai" />
+<meta name="twitter:creator" content="@w3c_wai" />
+<script type="application/ld+json">
+{"description":"The Website of the World Wide Web Consortium’s Web Accessibility Initiative.","author":{"@type":"Person","name":"w3c_wai"},"@type":"WebPage","url":"https://w3c.github.io/wai-website/standards-guidelines/aria/","headline":"WAI-ARIA Overview","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link rel="alternate" type="application/rss+xml" href="/wai-website/feed.xml">
+</head>
+  <body id="top" class=" page-wai-aria-overview">
+    <section class="default-grid info" tabindex="0">
+  <p class="inner">This is <strong>beta redesign</strong> of the W3C WAI website. (<a href="https://github.com/w3c/wai-website/wiki/W3C-WAI-Website-Redesign-Information">Beta Info and Comments</a>) The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.
+
+  </p>
+</section><nav aria-label="Skip Link and Accessibility Options" id="controls" class="default-grid">
+  <ul>
+    <li><a href="#main">Skip to Content</a></li>
+    <li><a href="/wai-website/meta/customize/">Change Text Size or Colors</a></li>
+  </ul>
+</nav>
+<header id="site-header" class="default-grid with-gap">
+  <div class="logos">
+    <a class="home" href="/wai-website/">
+      <img src="/wai-website/assets/images/w3c.svg" alt="W3C">
+      <span class="wai"><span class="wa">Web&nbsp;Accessibility</span> <span class="i"><span class="initieative">Initiative</span> <span>WAI</span></span></span>
+    </a>
+    <div class="claim">
+      <span>Strategies, standards, resources to make the Web accessible to people with disabilities</span>
+    </div>
+    <button class="button button-menu" aria-haspopup="true" aria-expanded="false" id="openmenu"><span><svg aria-hidden="true" class="icon-menu "><use xlink:href="/wai-website/assets/images/icons.svg#icon-menu"></use></svg> Menu</span></button>
+  </div>
+
+  <div class="navigations">
+  <nav class="metanav" aria-label="Meta &amp; Search">
+    <ul>
+      <li><a href="/wai-website/about/participating/">Get Involved</a></li>
+      <li><a href="/wai-website/about/">About W3C WAI</a></li>
+      <li>
+        <form action="/wai-website/search/" role="search">
+          <div>
+            <label for="header-search">
+              <span class="visuallyhidden">Search:</span>
+              <input id="header-search" type="search" name="q" placeholder="Search" aria-label="search">
+            </label>
+            <button class="button button-icon button-nobg button-noborder"><span><svg aria-label="Submit Search" class="icon-search "><use xlink:href="/wai-website/assets/images/icons.svg#icon-search"></use></svg></span></button>
+          </div>
+        </form>
+      </li>
+    </ul>
+  </nav>
+</div>
+</header><nav class="mainnav" aria-label="Main"><ul><li>
+    <a href="/wai-website/fundamentals/accessibility-intro/"><span>Accessibility Fundamentals</span></a>
+  </li><li>
+    <a href="/wai-website/planning/"><span>Planning & Policies</span></a>
+  </li><li>
+    <a href="/wai-website/design-develop/"><span>Design & Develop</span></a>
+  </li><li>
+    <a href="/wai-website/test-evaluate/"><span>Test & Evaluate</span></a>
+  </li><li>
+    <a href="/wai-website/teach-advocate/"><span>Teach & Advocate</span></a>
+  </li><li>
+    <a href="/wai-website/standards-guidelines/" aria-current="location"><span>Standards/<wbr>Guidelines</span></a>
+  </li></ul></nav><nav class="breadcrumb default-grid" aria-label="Breadcrumb">
+  <ul class="default-container">
+    <li><a href="/wai-website/">Home</a></li><li><a href="/wai-website/standards-guidelines/">Standards/<wbr>Guidelines</a></li><li><a href="/wai-website/standards-guidelines/aria/" aria-current="page">WAI-ARIA</a></li></ul>
+</nav>
+
+<div class="default-grid with-gap leftcol">
+
+  <nav class="sidenav sn-contents" aria-label="Secondary">
+      <div class="sidenav--head"><div class="sidenav--head-title"><div class="sidenav--head-subsection">Standards/<wbr>Guidelines</div></div></div>
+      <ul class="sidenav--list">
+  <li><a class="page-link" href="/wai-website/standards-guidelines/"><span>Standards Overview</span></a>
+    
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/"><span>Web Content – WCAG</span></a>
+    <ul><li><a class="page-link" href="https://www.w3.org/WAI/WCAG21/quickref/"><span>How to Meet WCAG 2 (Quick Reference) <svg aria-label="Different Layout" class="icon-external-link "><use xlink:href="/wai-website/assets/images/icons.svg#icon-external-link"></use></svg></span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/glance/"><span>At a Glance</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/docs/"><span>The Documents</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/new-in-21/"><span>New in 2.1</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/translations/"><span>Translations</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/non-web-ict/"><span>Applying to Non-Web ICT</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/commenting/"><span>Commenting</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/conformance-logos/"><span>Conformance Logos</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/wcag/faq/"><span>FAQ</span></a></li></ul>
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/atag/"><span>Authoring Tools – ATAG</span></a>
+    
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/uaag/"><span>User Agents – UAAG</span></a>
+    
+  </li><li><a class="page-link"  aria-current="page"href="/wai-website/standards-guidelines/aria/"><span>WAI-ARIA</span></a>
+    
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/evaluation/"><span>Evaluation – ACT & EARL</span></a>
+    <ul><li><a class="page-link" href="/wai-website/standards-guidelines/act/"><span>Accessibility Conformance Testing – ACT</span></a></li><li><a class="page-link" href="/wai-website/standards-guidelines/earl/"><span>Evaluation and Report Language – EARL</span></a></li></ul>
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/harmonization/"><span>Standards Harmonization is Essential</span></a>
+    
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/w3c-process/"><span>W3C Process for Developing Standards</span></a>
+    
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/linking/"><span>Referencing and Linking to Standards</span></a>
+    
+  </li><li><a class="page-link" href="/wai-website/standards-guidelines/mobile/"><span>Mobile Accessibility at W3C</span></a>
+    
+  </li></ul></nav>
+
+  <main id="main">
+    <h1>WAI-ARIA Overview</h1>
+
+<aside class="box box-full">
+  <header class="box-h  box-h-full"> <h2> Summary </h2></header>
+  <div class="box-i">
+
+
+
+<p>This page introduces the WAI-ARIA, the Accessible Rich Internet Applications suite of web standards.</p>
+
+<p>Quick links to resources:</p>
+<ul>
+  <li><a href="/TR/wai-aria/">WAI-ARIA</a></li>
+  <li><a href="/TR/wai-aria-implementation/">User Agent Implementation Guide</a></li>
+  <li><a href="/WAI/aria/faq">FAQ</a> - including <a href="/WAI/aria/faq#update">What is the current status of WAI-ARIA development?</a></li>
+</ul>
+
+
+
+  </div>
+</aside>
+
+
+
+
+<nav class="box box-simple" aria-labelledby="tocheading" id="toc">
+  <header id="tocheading" class="box-h box-h-simple"> Page Contents</header>
+  <div class="box-i">
+
+
+
+<ul id="markdown-toc">
+  <li><a href="#introduction" id="markdown-toc-introduction">Introduction</a></li>
+  <li><a href="#making-ajax-and-related-technologies-accessible" id="markdown-toc-making-ajax-and-related-technologies-accessible">Making Ajax and Related Technologies Accessible</a></li>
+  <li><a href="#versions-10-11-future" id="markdown-toc-versions-10-11-future">Versions 1.0, 1.1, future</a></li>
+  <li><a href="#who-develops-wai-aria" id="markdown-toc-who-develops-wai-aria">Who develops WAI-ARIA</a></li>
+</ul>
+
+
+
+  </div>
+</nav>
+
+
+<h2 id="introduction">Introduction</h2>
+
+<p><strong>WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a
+way to make Web content and Web applications more accessible to people
+with disabilities. It especially helps with dynamic content and advanced
+user interface controls developed with Ajax, HTML, JavaScript, and
+related technologies.</strong> Currently certain functionality used in Web
+sites is not available to some users with disabilities, especially
+people who rely on screen readers and people who cannot use a mouse.
+WAI-ARIA addresses these accessibility challenges, for example, by
+defining new ways for functionality to be provided to assistive
+technology. With WAI-ARIA, developers can make advanced Web applications
+accessible and usable to people with disabilities.</p>
+
+<p>This page describes the problems that WAI-ARIA addresses, and introduces
+the WAI-ARIA suite of technical documents. Many of the terms used in
+this page—including <em>Web content</em>, <em>user agent</em>s, and <em>assistive
+technology</em>—are described in <a href="/wai-website/fundamentals/accessibility-intro/">Introduction to Web
+Accessibility</a> and <a href="/wai-website/fundamentals/components/">Essential Components
+of Web Accessibility</a>. Additional information is
+available in:</p>
+
+<ul>
+  <li>Blog post <a href="https://www.w3.org/blog/2014/03/wai-aria-expands-web-accessibility">Accessible Rich Internet Applications (WAI-ARIA) 1.0 is a
+W3C Recommendation</a></li>
+  <li>Press release: <a href="/2014/03/aria.html.en">W3C’s Accessible Rich Internet Applications
+(WAI-ARIA) 1.0 Expands Accessibility of the Open Web
+Platform</a></li>
+  <li><a href="/WAI/aria/faq">WAI-ARIA FAQ</a> answers questions such as: “What
+happens in current and older browsers when WAI-ARIA is implemented?”
+and “As a Web content developer, what should I do with WAI-ARIA
+now?”</li>
+</ul>
+
+<h2 id="making-ajax-and-related-technologies-accessible">Making Ajax and Related Technologies Accessible</h2>
+
+
+
+<aside class="box box-right">
+  <header class="box-h  box-h-right"> Figure 1: Tree control</header>
+  <div class="box-i">
+
+
+
+<p><img src="/wai-website/content-images/wai-intro-aria/tree-nav.png" alt="tree control: a list of items with one of the list items expanded to
+show a sub-list" /></p>
+
+
+
+  </div>
+</aside>
+
+
+<p>Web sites are increasingly using more advanced and complex user
+interface controls, such as tree controls for Web site navigation like
+the example in Figure 1. To provide an accessible user experience to
+people with disabilities, assistive technologies need to be able to
+interact with these controls. However, the information that the
+assistive technologies need is not available with most current Web
+technologies.</p>
+
+<p>Another example of an accessibility barrier is drag-and-drop
+functionality that is not available to users who use a keyboard only and
+cannot use a mouse. Even relatively simple Web sites can be difficult if
+they require an extensive amount of keystrokes to navigate with only a
+keyboard.</p>
+
+<p>Many Web applications developed with Ajax (also known as AJAX), DHTML,
+and other technologies pose additional accessibility challenges. For
+example, if the content of a Web page changes in response to user
+actions or time- or event-based updates, that new content may not be
+available to some people, such as people who are blind or people with
+cognitive disabilities who use a screen reader.</p>
+
+<p><strong>WAI-ARIA addresses these accessibility challenges by defining how
+information about this functionality can be provided to assistive
+technology. With WAI-ARIA, an advanced Web application can be made
+accessible and usable to people with disabilities.</strong></p>
+
+<h3 id="technical-solutions">Technical Solutions</h3>
+
+<p>More specifically, WAI-ARIA provides a framework for adding attributes
+to identify features for user interaction, how they relate to each
+other, and their current state. WAI-ARIA describes new navigation
+techniques to mark regions and common Web structures as menus, primary
+content, secondary content, banner information, and other types of Web
+structures. For example, with WAI-ARIA, developers can identify regions
+of pages and enable keyboard users to easily move among regions, rather
+than having to press Tab many times.</p>
+
+<p>WAI-ARIA also includes technologies to map controls, Ajax live regions,
+and events to accessibility application programming interfaces (APIs),
+including custom controls used for rich Internet applications. WAI-ARIA
+techniques apply to widgets such as buttons, drop-down lists, calendar
+functions, tree controls (for example, expandable menus), and others.</p>
+
+<p>WAI-ARIA provides Web authors with the following:</p>
+
+<ul>
+  <li>Roles to describe the type of widget presented, such as “menu”,
+“treeitem”, “slider”, and “progressmeter”</li>
+  <li>Roles to describe the structure of the Web page, such as headings,
+regions, and tables (grids)</li>
+  <li>Properties to describe the state widgets are in, such as “checked”
+for a check box, or “haspopup” for a menu.</li>
+  <li>Properties to define live regions of a page that are likely to get
+updates (such as stock quotes), as well as an interruption policy
+for those updates—for example, critical updates may be presented in
+an alert dialog box, and incidental updates occur within the page</li>
+  <li>Properties for drag-and-drop that describe drag sources and drop
+targets</li>
+  <li>A way to provide keyboard navigation for the Web objects and events,
+such as those mentioned above</li>
+</ul>
+
+<h2 id="versions-10-11-future">Versions 1.0, 1.1, future</h2>
+
+<p><a href="/TR/wai-aria/">WAI-ARIA 1.0</a> was published as a completed W3C
+Recommendation on 20 March 2014.</p>
+
+<p><a href="/TR/wai-aria-1.1/">WAI-ARIA 1.1</a> is expected to include only a few
+changes from 1.0. [Most potential changes will be considered for
+WAI-ARIA 2.0.]{.listintro}</p>
+
+<p>The latest status is updated in the <a href="/WAI/aria/faq#update">FAQ: What is the current status of
+WAI-ARIA development?</a></p>
+
+<h3 id="wai-aria-1_1">WAI-ARIA 1.1</h3>
+
+<p>The 1.1 version will extend WAI-ARIA 1.0 to provide a small number of
+features to complete the HTML + ARIA accessibility model. It is intended
+complement HTML 5.1. For 1.1, user agent implementation guidance is
+provided as a suite of accessbility API mapping specifications that
+describe how to expose semantics of WAI-ARIA and other web content
+languages to accessibility APIs.</p>
+
+<p>Published WAI-ARIA 1.1 Working Drafts are as follows:</p>
+
+<ul>
+  <li><strong><a href="/TR/wai-aria-1.1/">WAI-ARIA 1.1</a> technical specification</strong>,
+provides features to define accessible user interface elements and
+in order to improve the accessibility and interoperability of web
+content and applications. It is primarily for developers of Web
+browsers, assistive technologies, and other user agents; developers
+of Web technologies (technical specifications); and developers of
+accessibility evaluation tools.</li>
+  <li><strong><a href="/TR/dpub-aria-1.0/">Digital Publishing WAI-ARIA Module 1.0</a></strong>,
+extends WAI-ARIA 1.1 to define an ontology of roles, states, and
+properties specific to digital publishing. It facilitates automated
+processing and accessibility support by providing semantics that are
+not included in base languages such as HTML. It allows authors to
+convey structural information to assistive technologies, and to
+enable semantic navigation, styling, and interactive features used
+by readers.</li>
+  <li><strong><a href="/TR/graphics-aria-1.0/">Graphics WAI-ARIA Module 1.0</a></strong>, extends
+WAI-ARIA 1.1 to allow an author to express the logical structure of
+the graphic to assistive technologies. Assistive technologies could
+then enable semantic navigation and adapt styling and interactive
+features, to provide an optimal experience for the audience.</li>
+  <li><strong><a href="/TR/core-aam-1.1/">Core Accessibility API Mappings 1.1</a></strong>,
+describes how user agents should expose semantics of web content
+languages to accessibility APIs. The core module defines support
+that applies across multiple content technologies, including general
+keyboard navigation support and mapping of general-purpose WAI-ARIA
+features; other specifications will extend this for specific
+technologies.</li>
+  <li><strong><a href="/TR/accname-aam-1.1/">Accessible Name and Description: Computation and API Mappings
+1.1</a></strong>, describes how user agents determine
+names and descriptions of accessible objects from web content
+languages and expose them in accessibility APIs. This allows
+assistive technologies to associate and relay the name or
+description of objects to users.</li>
+  <li><strong><a href="/TR/dpub-aam-1.0/">Digital Publishing Accessibility API Mappings
+1.0</a></strong>, extends Core Accessibility API Mappings
+1.1 to define how user agents map roles in the Digital Publishing
+WAI-ARIA Module to platform accessibility application programming
+interfaces (APIs).</li>
+  <li><strong><a href="/TR/html-aam-1.0/">HTML Accessibility API Mappings 1.0</a></strong>,
+extends Core Accessibility API Mappings 1.1 and Accessible Name and
+Description: Computation and API Mappings 1.1 to define how user
+agents map HTML markup to platform accessibility application
+programming interfaces (APIs). Provides HTML-specific guidance for
+how the HTML user agent must respond to keyboard focus, native HTML
+features, and role, state and property attributes provided via
+WAI-ARIA.</li>
+  <li><strong><a href="/TR/svg-aam-1.0/">SVG Accessibility API Mappings 1.0</a></strong>, extends
+Core Accessibility API Mappings 1.1 to define how user agents map
+SVG markup to platform accessibility application programming
+interfaces (APIs). When supported by user agents, its features allow
+SVG authors to create accessible rich internet applications,
+including charts, graphs, and other drawings. Provides SVG-specific
+guidance for how the SVG user agent must respond to keyboard focus,
+native SVG features, and role, state and property attributes
+provided via WAI-ARIA.</li>
+  <li><strong><a href="/TR/wai-aria-practices-1.1/">WAI-ARIA Authoring Practices 1.1</a></strong>,
+recommends approaches to help web application developers make
+widgets, navigation, and behaviors accessible using WAI-ARIA roles,
+states, and properties. It describes considerations that might not
+be evident to most authors from the WAI-ARIA specification which is
+oriented primarily at user agent implementers.</li>
+</ul>
+
+<p>Additional documents are expected in this suite, including other
+accessibility API mappings and updated authoring guidance. Editors’
+drafts under development can be accessed in the <a href="https://github.com/w3c/aria/">WAI-ARIA GitHub
+Repository</a>.</p>
+
+<h3 id="wai-aria-10">WAI-ARIA 1.0</h3>
+
+<p>In-progress “Editors’ Drafts” of the WAI-ARIA documents are available
+from the <a href="/WAI/ARIA/">Accessible Rich Internet Applications (ARIA) Working
+Group</a>.</p>
+
+<p>Published WAI-ARIA Working Drafts are as follows:</p>
+
+<ul>
+  <li><strong><a href="/TR/wai-aria/">WAI-ARIA</a> technical specification</strong>, a completed
+W3C Recommendation Web standard, combines the two
+previously-published WAI-ARIA draft specifications: Roles for
+Accessible Rich Internet Applications (WAI-ARIA Roles) and the
+States and Properties Module for Accessible Rich Internet
+Applications (WAI-ARIA States and Properties). It is primarily for
+developers of Web browsers, assistive technologies, and other user
+agents; developers of Web technologies (technical specifications);
+and developers of accessibility evaluation tools.</li>
+  <li><a href="/TR/wai-aria-implementation/"><strong>WAI-ARIA User Agent Implementation
+Guide</strong></a>, a completed W3C
+Recommendation Web standard, describes how browsers and other user
+agents should support WAI-ARIA; specifically, how to expose WAI-ARIA
+features to platform accessibility APIs.</li>
+  <li><a href="/TR/wai-aria-practices/"><strong>WAI-ARIA Authoring Practices</strong></a>,
+describes how Web content developers can develop accessible rich
+internet applications using WAI-ARIA. It provides detailed advice
+and examples directed primarily to Web application developers, yet
+also useful to user agent and assistive technology developers. <em>This
+document has been retired and replaced by WAI-ARIA Authoring
+Practices 1.1.</em></li>
+  <li><a href="/TR/wai-aria-primer/"><strong>WAI-ARIA Primer</strong></a> introduces developers to
+the accessibility problems that WAI-ARIA is intended to solve, the
+fundamental concepts, and the technical approach of WAI-ARIA. <em>This
+document has been retired and replaced by WAI-ARIA Authoring
+Practices 1.1.</em></li>
+  <li><strong><a href="/TR/wai-aria-roadmap/">WAI-ARIA Roadmap</a></strong> defines the path to
+make rich Web content accessible, including steps already taken,
+remaining future steps, and a timeline. Much of the content from
+previous drafts of the Roadmap has been moved to the WAI-ARIA
+Primer.</li>
+</ul>
+
+<p><em>W3C Recommendations</em> and <em>Working Group Notes</em> are briefly explained in
+<a href="/WAI/intro/w3c-process">How WAI Develops Accessibility Guidelines through the W3C
+Process</a>, which also describes milestones in the
+W3C Process.</p>
+
+<h3 id="technical-document-format">Technical document format</h3>
+
+<p>The WAI-ARIA documents follow the W3C format for technical
+specifications which includes several sections at the beginning: links
+to different versions, editors, copyright, abstract, and status with the
+link to errata and the email address for comments.</p>
+
+<h2 id="who-develops-wai-aria">Who develops WAI-ARIA</h2>
+
+<p>The WAI-ARIA technical documents are developed by the Accessible Rich
+Internet Applications Working Group (<a href="/WAI/ARIA/">ARIA WG</a>), which is
+part of the World Wide Web Consortium (<a href="/">W3C</a>) Web Accessibility
+Initiative (<a href="/WAI/">WAI</a>). For more information about the working group,
+see the <a href="/WAI/ARIA/">ARIA WG public page</a>.</p>
+
+<p><a href="/WAI/intro/w3c-process">How WAI Develops Accessibility Guidelines through the W3C Process:
+Milestones and Opportunities to Contribute</a>
+describes formal periods for public review. Opportunities for review and
+comment of WAI documents are announced on the <a href="/WAI/">WAI home page</a> and
+<a href="/WAI/IG/">WAI Interest Group</a> mailing list. An email address for
+sending comments is included in the “Status of this Document” section.</p>
+
+<p>Opportunities for contributing to WAI-ARIA and other WAI work are
+introduced in <a href="/WAI/participation">Participating in WAI</a>.</p>
+
+
+
+    
+    
+
+    
+
+<aside class="box box-icon box-space-above">
+  <header class="box-h  box-h-icon box-h-space-above box-h-icon"> <svg aria-hidden="true" class="icon-comments "><use xlink:href="/wai-website/assets/images/icons.svg#icon-comments"></use></svg> <h2> Help improve this page </h2></header>
+  <div class="box-i">
+
+<p>Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list <a href="mailto:wai-eo-editors@w3.org?subject=WAI-ARIA%20Overview">wai-eo-editors@w3.org</a> or via GitHub.</p>
+<div class="button-group">
+    <a href="mailto:wai-eo-editors@w3.org?subject=WAI-ARIA%20Overview" class="button"><span>E-mail</span></a>
+    <a href="https://github.com/w3c/wai-intro-aria/edit/master/index.md"  class="button"><span>Fork &amp; Edit on GitHub</span></a><a href="https://github.com/w3c/wai-intro-aria/issues/new" class="button"><span>New GitHub Issue</span></a>
+</div>
+
+  </div>
+</aside>
+
+
+    
+
+    <a class="button button-backtotop" href="#top"><span><svg aria-hidden="true" class="icon-arrow-up "><use xlink:href="/wai-website/assets/images/icons.svg#icon-arrow-up"></use></svg> Back to Top</span></a>
+  </main>
+</div>
+
+
+  
+
+
+<footer class="site-footer grid-4q">
+  <div class="q1-start q3-end about">
+    <div>
+      <p><a class="largelink" href="https://w3.org/WAI/">W3C Web Accessibility Initiative (WAI)</a></p>
+      <p>Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.</p>
+    </div>
+    <div>
+      <p>Copyright &#xA9; 2018 W3C <sup>&#xAE;</sup> (<a href="http://www.csail.mit.edu/"><abbr title="Massachusetts Institute of Technology">MIT</abbr></a>, <a href="http://www.ercim.eu/"><abbr title="European Research Consortium for Informatics and Mathematics">ERCIM</abbr></a>, <a href="http://www.keio.ac.jp/">Keio</a>, <a href="http://ev.buaa.edu.cn/">Beihang</a>) <a href="/Consortium/Legal/ipr-notice">Usage policies apply</a>.</p>
+    </div>
+  </div>
+  <div class="q4-start q4-end">
+    <ul>
+      <li><a href="/wai-website/about/contacting/">Contact WAI</a></li>
+      <li><a href="/wai-website/sitemap/">Site Map</a></li>
+      <li><a href="/wai-website/news/">News</a></li>
+      <li><a href="/wai-website/sitemap/#archive">Archive</a></li>
+      <li><a href="/wai-website/roles/">Resources for Roles</a></li>
+    </ul>
+  </div>
+</footer><section class="default-grid info" tabindex="0">
+  <p class="inner">This is <strong>beta redesign</strong> of the W3C WAI website. (<a href="https://github.com/w3c/wai-website/wiki/W3C-WAI-Website-Redesign-Information">Beta Info and Comments</a>) The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.
+
+  </p>
+</section><!-- Details4Everybody -->
+<script src="/wai-website/assets/scripts/details4everybody.js?1529647930311879577"></script>
+<!-- SVG4Everybody -->
+<script src="/wai-website/assets/scripts/svg4everybody.js?1529647930311879577"></script>
+<script>
+  svg4everybody();
+</script>
+<!-- Matomo -->
+<script>
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.w3.org/analytics/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '328']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//www.w3.org/analytics/piwik/piwik.php?idsite=328&rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+
+
+  </body>
+</html>
