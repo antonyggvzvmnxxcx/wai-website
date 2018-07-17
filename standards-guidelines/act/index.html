@@ -9,15 +9,15 @@
 
     function downloadJSAtOnload() {
       var element = document.createElement("script");
-      element.src = "/wai-website/assets/scripts/main.js?1530256579717453924";
+      element.src = "/wai-website/assets/scripts/main.js?1531846919708620228";
       document.body.appendChild(element);
     }
 
     window.addEventListener("load", downloadJSAtOnload, false);
   </script>
 
-  <link rel="stylesheet" href="/wai-website/assets/css/style.css?1530256579717453924">
-  <!-- Begin Jekyll SEO tag v2.4.0 -->
+  <link rel="stylesheet" href="/wai-website/assets/css/style.css?1531846919708620228">
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
 <meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Accessibility Conformance Testing (ACT) Overview" />
 <meta name="author" content="w3c_wai" />
@@ -150,8 +150,9 @@
 <ul id="markdown-toc">
   <li><a href="#introduction" id="markdown-toc-introduction">Introduction</a></li>
   <li><a href="#who-act-is-for" id="markdown-toc-who-act-is-for">Who ACT is for</a></li>
+  <li><a href="#what-is-in-act" id="markdown-toc-what-is-in-act">What is in ACT</a></li>
   <li><a href="#objectives-of-act" id="markdown-toc-objectives-of-act">Objectives of ACT</a></li>
-  <li><a href="#status-of-act-10" id="markdown-toc-status-of-act-10">Status of ACT 1.0</a></li>
+  <li><a href="#status-of-act-rules-format-10" id="markdown-toc-status-of-act-rules-format-10">Status of ACT Rules Format 1.0</a></li>
   <li><a href="#who-develops-act" id="markdown-toc-who-develops-act">Who develops ACT</a></li>
   <li><a href="#additional-information" id="markdown-toc-additional-information">Additional information</a></li>
 </ul>
@@ -164,17 +165,22 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<p>The purpose of the Accessibility Conformance Testing (ACT) effort is to establish and document rules for testing the conformance of web content to accessibility standards, such as Web Content Accessibility Guidelines (WCAG). These test rules include automated, semi-automated, and manual testing procedures. The ACT Task Force aims to make accessibility testing transparent, and thus minimize confusion caused by different interpretations of accessibility guidelines.</p>
+<p>The purpose of the Accessibility Conformance Testing (ACT) effort is to establish and document rules for testing the conformance of web content to accessibility standards, such as Web Content Accessibility Guidelines (WCAG). These test rules address automated, semi-automated, and manual testing. The ACT Task Force aims to make accessibility testing transparent, and thus minimize confusion caused by different interpretations of accessibility guidelines.</p>
 
 <h2 id="who-act-is-for">Who ACT is for</h2>
 
-<p>The primary audience of Accessibility Conformance Testing (ACT) Rules Format is developers of accessibility evaluation tools. They implement rules into their products. ACT serves as documentation and requirements for these tools.</p>
+<p>The primary audience of Accessibility Conformance Testing (ACT) is developers of accessibility evaluation methodologies and tools. They implement ACT Rules into their products and services. ACT serves as documentation and requirements.</p>
 
-<p>A secondary audience is accessibility experts. They often assist in setting an organization’s accessibility policy, and it is important for them to know what the rules do and ab able to write rule.</p>
+<p>A secondary audience is accessibility experts. They often assist in setting an organization’s accessibility policy, and it is important for them to know what the rules do.</p>
 
 <p>Who ACT is <strong>not</strong> for: Users of accessibility tools (web developers, content authors, QA testers, etc.) are not expected to read ACT.</p>
 
-<!-- ## What is in ACT 1.0 -->
+<h2 id="what-is-in-act">What is in ACT</h2>
+
+<ul>
+  <li><a href="https://www.w3.org/TR/act-rules-format/">Accessibility Conformance Testing (ACT) Rules Format 1.0</a> defines the requirements for testing rules, to guide the developers of ACT Rules</li>
+  <li><a href="https://w3c.github.io/wcag-act-rules/">Accessibility Conformance Testing (ACT) Rules Repository</a> provides a set of vetted testing rules following the ACT Rules Format specification</li>
+</ul>
 
 <h2 id="objectives-of-act">Objectives of ACT</h2>
 
@@ -182,22 +188,21 @@
   <li><strong>Establish consensus interpretation of accessibility requirements (Primarily WCAG) around a core set of test rules</strong> — currently there are varying and often contradictory interpretations of WCAG, which causes confusion and slows down the implementation of web accessibility</li>
   <li><strong>Provide transparency and comparability of test tools and implementations</strong> — currently test tools employ their own often proprietary interpretations of WCAG, making test results difficult to interpret, combine, and compare</li>
   <li><strong>Enable increased tool support by documenting structured testing procedures</strong> — establishing a common base of test rules allows tool developers to focus on increasing tool support, to reduce the amount of manual testing required</li>
-  <li><strong>Support test-driven authoring of success criteria in WCAG 2.1 and beyond</strong> — providing the framework for test rules will allow the working group to author future accessibility requirements that are backed by authoritative test rules</li>
 </ul>
 
-<h2 id="status-of-act-10">Status of ACT 1.0</h2>
+<h2 id="status-of-act-rules-format-10">Status of ACT Rules Format 1.0</h2>
 
-<p><a href="https://www.w3.org/TR/act-rules-format/">Accessibility Conformance Testing (ACT) Rules Format 1.0</a> is currently a Working Draft.</p>
+<p><a href="https://www.w3.org/TR/act-rules-format/">Accessibility Conformance Testing (ACT) Rules Format 1.0</a> is currently a Working Draft. ACT Rule implementations of this specification are currently in development.</p>
 
 <h3 id="technical-document-format">Technical document format</h3>
 
-<p>The ACT follows the W3C format for technical specifications, which includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status with the link to errata and the email address for comments. Most WAI specifications have a link at the top to the Table of Contents.</p>
+<p>The ACT Rules Format follows the W3C format for technical specifications, which includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status with the link to errata and the email address for comments. Most WAI specifications have a link at the top to the Table of Contents.</p>
 
 <h2 id="who-develops-act">Who develops ACT</h2>
 
-<p><a href="https://www.w3.org/WAI/GL/task-forces/conformance-testing/">ACT Task Force</a> of the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/GL/">AG WG</a>) develops the normative framework specification and supporting materials needed to implement the standard.</p>
+<p><a href="https://www.w3.org/WAI/GL/task-forces/conformance-testing/">ACT Task Force</a> of the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/GL/">AG WG</a>) develops the normative ACT Rules Format specification and supporting materials needed to implement the standard.</p>
 
-<p>The <a href="https://www.w3.org/community/auto-wcag/">auto-WCAG Community Group</a> develops non-normative test rules according to the normative framework specification, and provides feedback to inform the development of the standard.</p>
+<p>The <a href="https://auto-wcag.github.io/auto-wcag/">auto-WCAG Community Group</a> develops non-normative test rules according to the normative specification. Approved test rules are provided in the <a href="https://w3c.github.io/wcag-act-rules/">Accessibility Conformance Testing (ACT) Rules Repository</a>.</p>
 
 <p>Opportunities for contributing to ACT and other WAI work are introduced in <a href="/WAI/participation">Participating in WAI</a>.</p>
 
@@ -239,7 +244,7 @@
   
   <footer class="page-footer default-grid">
     <div class="inner">
-      <p><strong>Date:</strong> Updated 8 May 2018.</p> <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p> <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the <a href=" https://www.w3.org/WAI/GL/task-forces/conformance-testing ">ACT Task Force </a>.</p>
+      <p><strong>Date:</strong> Updated 3 July 2018.</p> <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p> <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the <a href=" https://www.w3.org/WAI/GL/task-forces/conformance-testing ">ACT Task Force </a>.</p>
 
     </div>
   </footer>
@@ -270,9 +275,9 @@
 
   </p>
 </section><!-- Details4Everybody -->
-<script src="/wai-website/assets/scripts/details4everybody.js?1530256579717453924"></script>
+<script src="/wai-website/assets/scripts/details4everybody.js?1531846919708620228"></script>
 <!-- SVG4Everybody -->
-<script src="/wai-website/assets/scripts/svg4everybody.js?1530256579717453924"></script>
+<script src="/wai-website/assets/scripts/svg4everybody.js?1531846919708620228"></script>
 <script>
   svg4everybody();
 </script>
