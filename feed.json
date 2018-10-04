@@ -1,0 +1,772 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Web Accessibility Initiative (WAI)",
+    "home_page_url": "https://w3c.github.io/wai-website/",
+    "feed_url": "https://w3c.github.io/wai-website/feed.json",
+    "description": "The Website of the World Wide Web Consortium’s Web Accessibility Initiative.\n",
+    "icon": "https://w3c.github.io/wai-website/apple-touch-icon.png",
+    "favicon": "https://w3c.github.io/wai-website/favicon.ico",
+    "expired": false,
+    
+    "author": "w3c_wai",
+    
+"items": [
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-09-13/WCAG-21-EN301549/",
+            "title": "WCAG 2.1 adopted in European standard EN 301 549 for ICT",
+            "summary": null,
+            "content_text": "European standard EN 301 549 “Accessibility requirements for ICT products and services” is updated to adopt Web Content Accessibility Guidelines (WCAG) 2.1 for information and communications technology (ICT) including:  web content  electronic documents  non-web software, such as native mobile appsSee more information in the blog post WCAG 2.1 Adoption in Europe.",
+            "content_html": "<p>European standard EN 301 549 “Accessibility requirements for ICT products and services” is updated to adopt Web Content Accessibility Guidelines (<a href=\"https://www.w3.org/WAI/standards-guidelines/wcag/\">WCAG</a>) 2.1 for information and communications technology (ICT) including:</p><ul>  <li>web content</li>  <li>electronic documents</li>  <li>non-web software, such as native mobile apps</li></ul><p>See more information in the blog post <a href=\"https://www.w3.org/blog/2018/09/wcag-2-1-adoption-in-europe/\">WCAG 2.1 Adoption in Europe</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-09-13/WCAG-21-EN301549/",
+            
+            
+            
+            
+            
+            "date_published": "2018-09-13T10:00:00+00:00",
+            "date_modified": "2018-09-13T10:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-09-13/WCAG-21-Italian-Authorized-Translation/",
+            "title": "WCAG 2.1 in Italian: Authorized Translation Published",
+            "summary": null,
+            "content_text": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1, the Italian Authorized Translation of Web Content Accessibility Guidelines (WCAG) 2.1, is now available, following completion of the W3C Authorized Translations process. WAI encourages translating WAI documents in all languages. See:  WCAG 2 Translations for a list of other completed and planned translations  WCAG 2.1 Italian Authorized Translation Published e-mail if you want more information",
+            "content_html": "<p><a href=\"https://www.w3.org/Translations/WCAG21-it/\" lang=\"it\" hreflang=\"it\">Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1</a>, the Italian Authorized Translation of <a href=\"http://www.w3.org/WAI/intro/wcag\">Web Content Accessibility Guidelines (WCAG) 2.1</a>, is now available, following completion of the <a href=\"http://www.w3.org/2005/02/TranslationPolicy\">W3C Authorized Translations process</a>. WAI encourages translating WAI documents in all languages. See:</p><ul>  <li><strong><a href=\"http://www.w3.org/WAI/WCAG20/translations\">WCAG 2 Translations</a> for a list of other completed and planned translations</strong></li>  <li><a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2018JulSep/0209.html\">WCAG 2.1 Italian Authorized Translation Published e-mail</a> if you want more information</li></ul>",
+            "url": "https://w3c.github.io/wai-website/news/2018-09-13/WCAG-21-Italian-Authorized-Translation/",
+            
+            
+            
+            
+            
+            "date_published": "2018-09-13T09:00:00+00:00",
+            "date_modified": "2018-09-13T09:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-08-30/WCAG-10-Superseded/",
+            "title": "WCAG 1.0 to be Marked Superseded",
+            "summary": null,
+            "content_text": "Web Content Accessibility Guidelines (WCAG) 1.0 is the first version of the guidelines finalized in 1999. We plan to mark WCAG 1.0 “superseded” by the end of this year. More information is in Superseding WCAG 1.0 e-mail and the W3C Process document. If you have any concerns about WCAG 1.0 being superseded, please contact public-agwg-comments@w3.org (public archive) or group-ag-chairs@w3.org (private archive) by 30 September 2018.",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/WCAG10/\">Web Content Accessibility Guidelines (WCAG) 1.0</a> is the first version of the guidelines finalized in 1999. We plan to mark WCAG 1.0 “superseded” by the end of this year. More information is in <a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2018JulSep/0166.html\">Superseding WCAG 1.0 e-mail</a> and the <a href=\"https://www.w3.org/2018/Process-20180201/#rec-rescind\">W3C Process document</a>. If you have any concerns about WCAG 1.0 being superseded, please contact <a href=\"public-agwg-comments@w3.org\">public-agwg-comments@w3.org</a> (public archive) or <a href=\"mailto:group-ag-chairs@w3.org\">group-ag-chairs@w3.org</a> (private archive) by <strong>30 September 2018</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-08-30/WCAG-10-Superseded/",
+            
+            
+            
+            
+            
+            "date_published": "2018-08-30T00:00:00+00:00",
+            "date_modified": "2018-08-30T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-07-27/SIGACCESS-Award-2018/",
+            "title": "Judy Brewer Receives 2018 SIGACCESS Award",
+            "summary": null,
+            "content_text": "Judy Brewer, Web Accessibility Initiative (WAI) Director at  W3C/MIT, received the SIGACCESS Outstanding Contributions to Computing and Accessibility Award for 2018. The award recognizes individuals who have made significant and lasting contributions to the development of computing technologies that improve the accessibility of media and services to people with disabilities. For more information, see Judy Brewer: Outstanding Contribution Recipient 2018 and SIGACCESS Outstanding Contribution Award.",
+            "content_html": "<p>Judy Brewer, Web Accessibility Initiative (WAI) Director at  W3C/MIT, received the <abbr title=\"Special Interest Group on Accessible Computing\">SIGACCESS</abbr> Outstanding Contributions to Computing and Accessibility Award for 2018. The award recognizes individuals who have made significant and lasting contributions to the development of computing technologies that improve the accessibility of media and services to people with disabilities. For more information, see <a href=\"http://www.sigaccess.org/2018/07/judy-brewer-outstanding-contribution-recipient-2018/\">Judy Brewer: Outstanding Contribution Recipient 2018</a> and <a href=\"http://www.sigaccess.org/category/news/awards/outstanding-contribution/\">SIGACCESS Outstanding Contribution Award</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-07-27/SIGACCESS-Award-2018/",
+            
+            
+            
+            
+            
+            "date_published": "2018-07-27T00:00:00+00:00",
+            "date_modified": "2018-07-27T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-07-03/Inaccessibility-of-CAPTCHA-Working-Draft/",
+            "title": "For Review: Inaccessibility of CAPTCHA Working Draft",
+            "summary": null,
+            "content_text": "Inaccessibility of CAPTCHA is being reviesd and updated. A  Working Draft is available for review. Since the last publication, the abilities of robots to defeat CAPTCHAs has increased, and new technologies to authenticate human users have come available. This update brings the document up to date with these new realities. For more information, see the blog post Updated and extensively revised “Inaccessibility of CAPTCHA” Published. Please submit any comments by 31 July 2018.",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/turingtest/\">Inaccessibility of CAPTCHA</a> is being reviesd and updated. A  Working Draft is available for review. Since the last publication, the abilities of robots to defeat CAPTCHAs has increased, and new technologies to authenticate human users have come available. This update brings the document up to date with these new realities. For more information, see the blog post <a href=\"https://www.w3.org/blog/2018/07/captcha-update/\">Updated and extensively revised “Inaccessibility of CAPTCHA” Published</a>. Please submit any comments by <strong>31 July 2018</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-07-03/Inaccessibility-of-CAPTCHA-Working-Draft/",
+            
+            
+            
+            
+            
+            "date_published": "2018-07-03T00:00:00+00:00",
+            "date_modified": "2018-07-03T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-06-05/wcag-21-is-a-web-standard/",
+            "title": "WCAG 2.1 is a Web Standard “W3C Recommendation”",
+            "summary": null,
+            "content_text": "Web Content Accessibility Guidelines WCAG 2.1 was published today as a “W3C Recommendation” web standard. All requirements (“success criteria”) from 2.0 are included in 2.1. There are additional success criteria in 2.1. They are introduced in What’s New in WCAG 2.1. For information about this publication and next steps, see the blog post WCAG 2.1 is a W3C Recommendation.",
+            "content_html": "<p><img src=\"/wai-website/content-images/wai-news/2018/wcag21-release.png\" alt=\"\" style=\"float:left; margin-right: 15px;\" />Web Content Accessibility Guidelines <a href=\"https://www.w3.org/TR/WCAG21\">WCAG 2.1</a> was published today as a “W3C Recommendation” web standard. All requirements (“success criteria”) from 2.0 are included in 2.1. There are additional success criteria in 2.1. They are introduced in <a href=\"https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/\">What’s New in WCAG 2.1</a>. For information about this publication and next steps, see the blog post <a href=\"https://www.w3.org/blog/2018/06/wcag21-rec/\">WCAG 2.1 is a W3C Recommendation</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-06-05/wcag-21-is-a-web-standard/",
+            
+            
+            
+            
+            
+            "date_published": "2018-06-05T00:00:00+00:00",
+            "date_modified": "2018-06-05T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-05-11/w3c-wai-website-and-resources-redesigned/",
+            "title": "W3C WAI Website and Resources Redesigned",
+            "summary": null,
+            "content_text": "The redesigned W3C WAI website makes it easier to get information to help you improve web accessibility. The visual design, information architecture, navigation, and overall user experience is all new. Much of the content is revised, and we plan to revise more in the coming months. The redesign makes it easier to skim pages, read content, find specific information, and discover new resources. It’s also easier for the community to be involved in improving resources. Please see W3C WAI Website Redesign Information for:  Planned Changes and Known Issues  Acknowledgements  How to Comment",
+            "content_html": "<p>The redesigned <a href=\"https://www.w3.org/WAI/\">W3C WAI website</a> makes it easier to get information to help you improve web accessibility. The visual design, information architecture, navigation, and overall user experience is all new. Much of the content is revised, and we plan to revise more in the coming months. The redesign makes it easier to skim pages, read content, find specific information, and discover new resources. It’s also easier for the community to be involved in improving resources. Please see <a href=\"https://github.com/w3c/wai-website/wiki/W3C-WAI-Website-Redesign-Information\">W3C WAI Website Redesign Information</a> for:</p><ul>  <li>Planned Changes and Known Issues</li>  <li>Acknowledgements</li>  <li>How to Comment</li></ul>",
+            "url": "https://w3c.github.io/wai-website/news/2018-05-11/w3c-wai-website-and-resources-redesigned/",
+            
+            
+            
+            
+            
+            "date_published": "2018-05-11T00:00:00+00:00",
+            "date_modified": "2018-05-11T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-03-29/cr-aria-graphics-module-a11y-api-mappings/",
+            "title": "Candidate Recommendation: WAI-ARIA Graphics Module and Graphics Accessibility API Mappings",
+            "summary": null,
+            "content_text": "The ARIA WG has published WAI-ARIA Graphics Module 1.0 and Graphics Accessibility API Mappings 1.0. The Working Group targets 27 April 2018 to complete the testing process and produce the implementation report.",
+            "content_html": "<p>The ARIA WG has published <a href=\"https://www.w3.org/TR/graphics-aria-1.0/\">WAI-ARIA Graphics Module 1.0</a> and <a href=\"https://www.w3.org/TR/graphics-aam-1.0/\">Graphics Accessibility API Mappings 1.0</a>. The Working Group targets <strong>27 April 2018</strong> to complete the testing process and produce the implementation report.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-03-29/cr-aria-graphics-module-a11y-api-mappings/",
+            
+            
+            
+            
+            
+            "date_published": "2018-03-29T00:00:00+00:00",
+            "date_modified": "2018-03-29T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-03-20/wide-review-accessible-name-desc-computation/",
+            "title": "For Wide Review: Accessible Name and Description Computation",
+            "summary": null,
+            "content_text": "The ARIA WG has published a wide review draft of Accessible Name and Description Computation 1.1. This document describes how user agents determine the names and descriptions of accessible objects, where information comprising that name can come from various characteristics of the content, in order to lead to a consistent result across implementations. The document previously included Accessibility API Mappings, which have been moved to Core Accessibility API Mappings, so this document only describes the procedure to determine accessible name and description, not how to expose it. Please comment by 13 April 2018.",
+            "content_html": "<p>The ARIA WG has published a wide review draft of <a href=\"https://www.w3.org/TR/accname-1.1/\">Accessible Name and Description Computation 1.1</a>. This document describes how user agents determine the names and descriptions of accessible objects, where information comprising that name can come from various characteristics of the content, in order to lead to a consistent result across implementations. The document previously included Accessibility API Mappings, which have been moved to Core Accessibility API Mappings, so this document only describes the procedure to determine accessible name and description, not how to expose it. Please comment by <strong>13 April 2018</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-03-20/wide-review-accessible-name-desc-computation/",
+            
+            
+            
+            
+            
+            "date_published": "2018-03-20T00:00:00+00:00",
+            "date_modified": "2018-03-20T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-03-13/personalization-explainer-content-update/",
+            "title": "For Review: Personalization Semantics Explainer and Content module updated",
+            "summary": null,
+            "content_text": "The ARIA WG has published an updated draft of Personalization Semantics Explainer 1.0 and Personalization Semantics Content Module 1.0. The explainer adds a Vocabulary Identification section, does some changes in sections of WAI-ARIA and HTML Microdata, also replaces the RDFa section with editor’s note. The Content module removes aui prefixes from property names, changes some examples and adds some editor’s note in the document. Please comment by 13 April 2018.",
+            "content_html": "<p>The ARIA WG has published an updated draft of <a href=\"https://www.w3.org/TR/personalization-semantics-1.0/\">Personalization Semantics Explainer 1.0</a> and <a href=\"https://www.w3.org/TR/personalization-semantics-content-1.0/\">Personalization Semantics Content Module 1.0</a>. The explainer adds a Vocabulary Identification section, does some changes in sections of WAI-ARIA and HTML Microdata, also replaces the RDFa section with editor’s note. The Content module removes aui prefixes from property names, changes some examples and adds some editor’s note in the document. Please comment by <strong>13 April 2018</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-03-13/personalization-explainer-content-update/",
+            
+            
+            
+            
+            
+            "date_published": "2018-03-13T00:00:00+00:00",
+            "date_modified": "2018-03-13T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-03-03/act-rules-format-1-wd/",
+            "title": "For Review: ACT Rules Format 1.0 Working Draft",
+            "summary": null,
+            "content_text": "An updated Working Draft of Accessibility Conformance Testing (ACT) Rules Format is available for review. This draft addresses all comments received on the previous draft. Most importantly, the “Selector” approach was replaced with “Applicability” and “Expectation” pairs, to make ACT Rules less procedural. This draft is accompanied by sample ACT Rules that implement this rules format. Please submit any comments, especially comments related to implementation experience, as soon as possible, before 5 April 2018.",
+            "content_html": "<p>An updated Working Draft of <a href=\"https://www.w3.org/TR/act-rules-format-1.0/\">Accessibility Conformance Testing (ACT) Rules Format</a> is available for review. This draft addresses all comments received on the previous draft. Most importantly, the “Selector” approach was replaced with “Applicability” and “Expectation” pairs, to make ACT Rules less procedural. This draft is accompanied by <a href=\"https://w3c.github.io/wcag-act-rules/\">sample ACT Rules</a> that implement this rules format. Please submit any comments, especially comments related to implementation experience, as soon as possible, before <strong>5 April 2018</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-03-03/act-rules-format-1-wd/",
+            
+            
+            
+            
+            
+            "date_published": "2018-03-03T00:00:00+00:00",
+            "date_modified": "2018-03-03T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-02-13/personalization/",
+            "title": "For Review: Personalization Semantics Content Module First Public Working Draft, and Personalization Semantics Explainer",
+            "summary": null,
+            "content_text": "The ARIA WG has published a First Public Working Draft of Personalization Semantics Content Module 1.0 as well as an updated draft of Personalization Semantics Explainer 1.0. The Personalization Semantics Explainer was previous published as Personalization Semantics which contained all the properties proposed for the level 1 version of the technology. The properties have now been moved to modules, of which Personalization Semantics Content Module is the first. More information is available in the Personalization Semantics Content Module First Public Working Draft, and Personalization Semantics Explainer email. Please submit comments by 10 March 2018.",
+            "content_html": "<p>The ARIA WG has published a First Public Working Draft of <a href=\"https://www.w3.org/TR/personalization-semantics-content-1.0/\">Personalization Semantics Content Module 1.0</a> as well as an updated draft of <a href=\"https://www.w3.org/TR/personalization-semantics-1.0/\">Personalization Semantics Explainer 1.0</a>. The Personalization Semantics Explainer was previous published as Personalization Semantics which contained all the properties proposed for the level 1 version of the technology. The properties have now been moved to modules, of which Personalization Semantics Content Module is the first. More information is available in the <a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2018JanMar/0148.html\">Personalization Semantics Content Module First Public Working Draft, and Personalization Semantics Explainer</a> email. Please submit comments by 10 March 2018.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-02-13/personalization/",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-13T00:00:00+00:00",
+            "date_modified": "2018-02-13T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-02-08/graphics-aria-aam-wide-review/",
+            "title": "For Wide Review: Graphics-ARIA and Graphics-AAM Drafts",
+            "summary": null,
+            "content_text": "The ARIA WG has published Working Drafts of WAI-ARIA Graphics Module 1.0 and Graphics Accessibility API Mappings.The ARIA Working Group believes feature development for the 1.0 versions of these specifications is complete. These drafts are published for wide review to solicit final comments before advancing these specifications to Candidate Recommendation. More information is available in the Graphics-ARIA and Graphics-AAM wide review drafts available email.Please submit comments by 2 March 2018.",
+            "content_html": "<p>The ARIA WG has published Working Drafts of <a href=\"http://www.w3.org/TR/graphics-aria-1.0/\">WAI-ARIA Graphics Module 1.0</a> and <a href=\"http://www.w3.org/TR/graphics-aam-1.0/\">Graphics Accessibility API Mappings</a>.</p><p>The ARIA Working Group believes feature development for the 1.0 versions of these specifications is complete. These drafts are published for wide review to solicit final comments before advancing these specifications to Candidate Recommendation. More information is available in the <a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2018JanMar/0142.html\">Graphics-ARIA and Graphics-AAM wide review drafts available email</a>.</p><p>Please submit comments by 2 March 2018.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-02-08/graphics-aria-aam-wide-review/",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-08T00:00:00+00:00",
+            "date_modified": "2018-02-08T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2018-01-31/wcag21-cr/",
+            "title": "WCAG 2.1 is a Candidate Recommendation",
+            "summary": null,
+            "content_text": "WCAG 2.1 has beenpublished as a Candidate Recommendation. The Working Group will now conduct implementation testing towards the goal of finalizing the guidelines by June 2018. See the post WCAG 2.1 is a Candidate Recommendation for more information about this publication. Please submit comments by 30 March 2018. Read about the Accessibility Guidelines Working Group and the Web Accessibility Initiative (WAI).",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/2018/CR-WCAG21-20180130/\">WCAG 2.1</a> has beenpublished as a Candidate Recommendation. The Working Group will now conduct implementation testing towards the goal of finalizing the guidelines by June 2018. See the post <a href=\"https://www.w3.org/blog/2018/01/wcag21-cr/\">WCAG 2.1 is a Candidate Recommendation</a> for more information about this publication. Please submit comments by 30 March 2018. Read about the <a href=\"https://www.w3.org/WAI/GL/\">Accessibility Guidelines Working Group</a> and the <a href=\"http://www.w3.org/WAI/\">Web Accessibility Initiative (WAI)</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2018-01-31/wcag21-cr/",
+            
+            
+            
+            
+            
+            "date_published": "2018-01-31T00:00:00+00:00",
+            "date_modified": "2018-01-31T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-12-15/updated-resources-planning-and-managing-web-accessibility/",
+            "title": "Updated Resources: Planning and Managing Web Accessibility",
+            "summary": null,
+            "content_text": "WAI's Education and Outreach Working Group (EOWG) has updated these three resources:Web Accessibility First Aid: Approaches for Interim Repairs is intended to help with the situation: \"I need to make my website accessible and I don't even know where to start!\" It provides guidance on addressing short-term accessibility fixes.Developing Organizational Policies on Web Accessibility helps you develop  a simple or comprehensive web accessibility policy for an organization.Planning and Managing Web Accessibility helps you integrate accessibility throughout the web production process. It applies to individual projects and at the organizational level.",
+            "content_html": "<p>WAI's Education and Outreach Working Group (EOWG) has updated these three resources:</p><ul><li><a href=\"/wai-website/planning/interim-repairs/\">Web Accessibility First Aid: Approaches for Interim Repairs</a> is intended to help with the situation: \"I need to make my website accessible and I don't even know where to start!\" It provides guidance on addressing short-term accessibility fixes.</li><li><a href=\"/wai-website/planning-and-managing//pol\">Developing Organizational Policies on Web Accessibility</a> helps you develop  a simple or comprehensive web accessibility policy for an organization.</li><li><a href=\"/wai-website/planning-and-managing/\">Planning and Managing Web Accessibility</a> helps you integrate accessibility throughout the web production process. It applies to individual projects and at the organizational level.</li></ul>",
+            "url": "https://w3c.github.io/wai-website/news/2017-12-15/updated-resources-planning-and-managing-web-accessibility/",
+            
+            
+            
+            
+            
+            "date_published": "2017-12-15T00:00:00+00:00",
+            "date_modified": "2017-12-15T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-12-14/wai-aria-authoring-practices11/",
+            "title": "WAI-ARIA Authoring Practices 1.1 is a Working Group Note",
+            "summary": null,
+            "content_text": "The Accessible Rich Internet Applications Working Group has published WAI-ARIA Authoring Practices 1.1 as a Working Group Note to support the WAI-ARIA 1.1 Recommendation. More information about this is available in the WAI-ARIA 1.1 Authoring Practices Note blog post. Read about the Web Accessibility Initiative (WAI).",
+            "content_html": "<p>The <a href=\"https://www.w3.org/WAI/ARIA/\">Accessible Rich Internet Applications Working Group</a> has published <a href=\"https://www.w3.org/TR/2017/NOTE-wai-aria-practices-1.1-20171214/\">WAI-ARIA Authoring Practices 1.1</a> as a Working Group Note to support the WAI-ARIA 1.1 Recommendation. More information about this is available in the <a href=\"https://www.w3.org/blog/2017/12/wai-aria-authoring-practices-note\">WAI-ARIA 1.1 Authoring Practices Note blog post</a>. Read about the <a href=\"http://www.w3.org/WAI/\">Web Accessibility Initiative (WAI)</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-12-14/wai-aria-authoring-practices11/",
+            
+            
+            
+            
+            
+            "date_published": "2017-12-14T00:00:00+00:00",
+            "date_modified": "2017-12-14T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-12-14/aria11-coreaam11-dpubaria1-dpubaam1-rec/",
+            "title": "WAI-ARIA 1.1, Core-AAM 1.1, DPub-ARIA 1.0, and DPub-AAM 1.0 are W3C Recommendations",
+            "summary": null,
+            "content_text": "The Accessible Rich Internet Applications Working Group has published Accessible Rich Internet Applications (WAI-ARIA) 1.1, Core Accessibility API Mappings 1.1, Digital Publishing WAI-ARIA Module 1.0, and Digital Publishing Accessibility API Mappings 1.0 as W3C Recommendations. More information about these publications is available in the WAI-ARIA 1.1 is Recommendation email. Read about the Web Accessibility Initiative(WAI).",
+            "content_html": "<p>The <a href=\"https://www.w3.org/WAI/ARIA/\">Accessible Rich Internet Applications Working Group</a> has published <a href=\"https://www.w3.org/TR/2017/REC-wai-aria-1.1-20171214/\">Accessible Rich Internet Applications (WAI-ARIA) 1.1</a>, <a href=\"https://www.w3.org/TR/2017/REC-core-aam-1.1-20171214/\">Core Accessibility API Mappings 1.1</a>, <a href=\"https://www.w3.org/TR/2017/REC-dpub-aria-1.0-20171214/\">Digital Publishing WAI-ARIA Module 1.0</a>, and <a href=\"https://www.w3.org/TR/2017/REC-dpub-aam-1.0-20171214/\">Digital Publishing Accessibility API Mappings 1.0</a> as W3C Recommendations. More information about these publications is available in the <a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2017OctDec/0239.html\">WAI-ARIA 1.1 is Recommendation email</a>. Read about the <a href=\"http://www.w3.org/WAI/\">Web Accessibility Initiative(WAI)</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-12-14/aria11-coreaam11-dpubaria1-dpubaam1-rec/",
+            
+            
+            
+            
+            
+            "date_published": "2017-12-14T00:00:00+00:00",
+            "date_modified": "2017-12-14T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-12-07/wcag21-final-wd/",
+            "title": "WCAG 2.1 final Working Draft",
+            "summary": null,
+            "content_text": "A final Working Draft of Web Content Accessibility Guidelines2.1 has been published for wide reviewbefore a planned advance to Candidate Recommendation in January 2018.Please comment by 12 January 2018. Read about the AccessibilityGuidelines Working Group and the WebAccessibility Initiative (WAI).",
+            "content_html": "<p>A final Working Draft of <a href=\"https://www.w3.org/TR/WCAG21/\">Web Content Accessibility Guidelines2.1</a> has been published for wide reviewbefore a planned advance to Candidate Recommendation in January 2018.Please comment by <strong>12 January 2018</strong>. Read about the <a href=\"https://www.w3.org/WAI/GL/\">AccessibilityGuidelines Working Group</a> and the <a href=\"http://www.w3.org/WAI/\">WebAccessibility Initiative (WAI)</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-12-07/wcag21-final-wd/",
+            
+            
+            
+            
+            
+            "date_published": "2017-12-07T00:00:00+00:00",
+            "date_modified": "2017-12-07T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-12-07/cognitive-accessibility-roadmap-and-gap-analysis-first-public-working-draft/",
+            "title": "Cognitive Accessibility Roadmap and Gap Analysis First Public Working Draft",
+            "summary": null,
+            "content_text": "The Cognitive and Learning Disabilities Accessibility Task Force has published a first public Working Draft of Cognitive Accessibility Roadmap and Gap Analysis. It explores user needs for people with cognitive or learning disabilities and identifies where additional web content authoring guidance is needed to help authors meet these needs. This information is important to new guidance being added to Web Content Accessibility Guidelines 2.1. Please comment by 16 January 2018. Read about the Accessible Platform Architectures and Accessibility Guidelines Working Groups and the Web Accessibility Initiative (WAI).",
+            "content_html": "<p>The <a href=\"https://www.w3.org/WAI/PF/cognitive-a11y-tf/\">Cognitive and Learning Disabilities Accessibility Task Force</a> has published a first public Working Draft of <a href=\"https://www.w3.org/TR/2017/WD-coga-gap-analysis-20171207/\">Cognitive Accessibility Roadmap and Gap Analysis</a>. It explores user needs for people with cognitive or learning disabilities and identifies where additional web content authoring guidance is needed to help authors meet these needs. This information is important to new guidance being added to Web Content Accessibility Guidelines 2.1. Please comment by <strong>16 January 2018</strong>. Read about the <a href=\"https://www.w3.org/WAI/APA/\">Accessible Platform Architectures</a> and <a href=\"https://www.w3.org/WAI/GL/\">Accessibility Guidelines</a> Working Groups and the <a href=\"http://www.w3.org/WAI/\">Web Accessibility Initiative (WAI)</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-12-07/cognitive-accessibility-roadmap-and-gap-analysis-first-public-working-draft/",
+            
+            
+            
+            
+            
+            "date_published": "2017-12-07T00:00:00+00:00",
+            "date_modified": "2017-12-07T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-12-04/new-video-introduces-web-accessibility-and-w3c-standards/",
+            "title": "New Video Introduces Web Accessibility and W3C Standards",
+            "summary": null,
+            "content_text": " A Video Introduction to Web Accessibility and W3C Standards is now available from WAI. The video is presented as part of the Internet Society (ISOC)'s Accessibility Toolkit. It is timed in recognition of the United Nation's annual International Day of Persons with Disabilities. Subtitles are currently available in over 15 languages. More translations are welcome.",
+            "content_html": "<p><a class=\"imageLink\" href=\"https://www.w3.org/WAI/videos/standards-and-benefits\"><img src=\"https://www.w3.org/WAI/videos/sab-files/sab-still.jpg\" alt=\"video screenshot of two people talking while watching a computer screen\" width=\"100\" /></a> A <a href=\"https://www.w3.org/WAI/videos/standards-and-benefits.html\">Video Introduction to Web Accessibility and W3C Standards</a> is now available from WAI. The video is presented as part of the Internet Society (ISOC)'s <a href=\"https://www.internetsociety.org/accessibility-toolkit\">Accessibility Toolkit</a>. It is timed in recognition of the United Nation's annual <a href=\"http://www.un.org/en/events/disabilitiesday/\">International Day of Persons with Disabilities</a>. Subtitles are currently available in over 15 languages. More <a href=\"https://www.w3.org/WAI/videos/standards-and-benefits.html#translations\">translations are welcome</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-12-04/new-video-introduces-web-accessibility-and-w3c-standards/",
+            
+            
+            
+            
+            
+            "date_published": "2017-12-04T00:00:00+00:00",
+            "date_modified": "2017-12-04T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-10-01/wai-aria-11-core-aam-11-dpub-aria-10-and-dpub-aam-10-are-w3c-proposed-recommendations/",
+            "title": "WAI-ARIA 1.1, Core-AAM 1.1, DPub-ARIA 1.0, and DPub-AAM 1.0 are W3C Proposed Recommendations",
+            "summary": null,
+            "content_text": "The Accessible Rich Internet Applications Working Group has published Proposed Recommendations of Accessible Rich Internet Applications (WAI-ARIA) 1.1, Core Accessibility API Mappings 1.1, Digital Publishing WAI-ARIA Module 1.0, and Digital Publishing Accessibility API Mappings. WAI-ARIA recommends approaches for developers to make widgets, navigation, and behaviors accessible to people with disabilities. WAI-ARIA 1.1 adds features new since WAI-ARIA 1.0 to complete the HTML + ARIA accessibility model and supports additional modules for digital publishing and graphics. DPub-ARIA defines a WAI-ARIA module encompassing an ontology of roles, states and properties specific to the digital publishing industry. This allows an author to convey user interface behaviors and structural information to assistive technologies and to enable semantic navigation, styling and interactive features used by readers. User agent implementation to date is shown in the WAI-ARIA implementation report, Core-AAM implementation report, DPub-ARIA implementation report, and DPub-AAM implementation report. Comments are welcome through 30 November 2017.",
+            "content_html": "<p>The <a href=\"https://www.w3.org/WAI/ARIA/\">Accessible Rich Internet Applications Working Group</a> has published Proposed Recommendations of <a href=\"https://www.w3.org/TR/2017/PR-wai-aria-1.1-20171102/\">Accessible Rich Internet Applications (WAI-ARIA) 1.1</a>, <a href=\"https://www.w3.org/TR/2017/PR-core-aam-1.1-20171102/\">Core Accessibility API Mappings 1.1</a>, <a href=\"https://www.w3.org/TR/2017/PR-dpub-aria-1.0-20171102/\">Digital Publishing WAI-ARIA Module 1.0</a>, and <a href=\"https://www.w3.org/TR/2017/PR-dpub-aam-1.0-20171102/\">Digital Publishing Accessibility API Mappings</a>. WAI-ARIA recommends approaches for developers to make widgets, navigation, and behaviors accessible to people with disabilities. WAI-ARIA 1.1 adds features new since WAI-ARIA 1.0 to complete the HTML + ARIA accessibility model and supports additional modules for digital publishing and graphics. DPub-ARIA defines a WAI-ARIA module encompassing an ontology of roles, states and properties specific to the digital publishing industry. This allows an author to convey user interface behaviors and structural information to assistive technologies and to enable semantic navigation, styling and interactive features used by readers. User agent implementation to date is shown in the <a href=\"https://w3c.github.io/test-results/wai-aria/\">WAI-ARIA implementation report</a>, <a href=\"https://w3c.github.io/test-results/core-aam/\">Core-AAM implementation report</a>, <a href=\"https://w3c.github.io/test-results/dpub-aria/\">DPub-ARIA implementation report</a>, and <a href=\"https://w3c.github.io/test-results/dpub-aam/\">DPub-AAM implementation report</a>. Comments are welcome through <strong>30 November 2017</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-10-01/wai-aria-11-core-aam-11-dpub-aria-10-and-dpub-aam-10-are-w3c-proposed-recommendations/",
+            
+            
+            
+            
+            
+            "date_published": "2017-10-01T00:00:00+00:00",
+            "date_modified": "2017-10-01T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-09-12/wide-review-draft-of-wcag-21/",
+            "title": "Wide review draft of WCAG 2.1",
+            "summary": null,
+            "content_text": "A new Working Draft of Web Content Accessibility Guidelines 2.1 has been published. This draft has all the new Success Criteria that the Working Group plans to add to WCAG 2.1. After this publication, the Working Group will work to optimize the structure of the WCAG 2.1 requirements. To support this work, the Working Group requests wide review of this draft as soon as possible or by 10 October 2017. The Working Group plans to publish another Working Draft in November that incorporates the above work plus addresses remaining public comments received on this and earlier drafts.",
+            "content_html": "<p>A new Working Draft of <a href=\"https://www.w3.org/TR/WCAG21/\">Web Content Accessibility Guidelines 2.1</a> has been published. This draft has all the new Success Criteria that the Working Group plans to add to WCAG 2.1. After this publication, the Working Group will work to optimize the structure of the WCAG 2.1 requirements. To support this work, the Working Group requests wide review of this draft <strong>as soon as possible</strong> or by <strong>10 October 2017</strong>. The Working Group plans to publish another Working Draft in November that incorporates the above work plus addresses remaining public comments received on this and earlier drafts.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-09-12/wide-review-draft-of-wcag-21/",
+            
+            
+            
+            
+            
+            "date_published": "2017-09-12T00:00:00+00:00",
+            "date_modified": "2017-09-12T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-09-12/for-review-act-rules-format-10-working-draft/",
+            "title": "For Review: ACT Rules Format 1.0 Working Draft",
+            "summary": null,
+            "content_text": "An updated Working Draft of Accessibility Conformance Testing (ACT) Rules Format is available for review. This draft addresses all comments received on the previous draft, and is accompanied by fully- and semi-automated sample ACT Rules that implement this rules format. Please submit any comments, especially comments related to implementation experience, as soon as possible, before 10 October 2017.",
+            "content_html": "<p>An updated Working Draft of <a href=\" https://www.w3.org/TR/act-rules-format/\">Accessibility Conformance Testing (ACT) Rules Format</a> is available for review. This draft addresses all comments received on the previous draft, and is accompanied by fully- and semi-automated <a href=\"https://w3c.github.io/wcag-act-rules/\">sample ACT Rules</a> that implement this rules format. Please submit any comments, especially comments related to implementation experience, as soon as possible, before <strong>10 October 2017</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-09-12/for-review-act-rules-format-10-working-draft/",
+            
+            
+            
+            
+            
+            "date_published": "2017-09-12T00:00:00+00:00",
+            "date_modified": "2017-09-12T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-08-16/wcag-21-working-draft-for-review/",
+            "title": "WCAG 2.1 Working Draft for review",
+            "summary": null,
+            "content_text": "A new Working Draft of Web Content Accessibility Guidelines 2.1 has been published. This is the last Working Draft before the Working Group stops adding new requirements to WCAG 2.1. A draft is planned for September that will comprise the final set of new success criteria. In November a draft will be published that incorporates those changes from the September draft, and is intended to be the final version beginning implementation testing.Please submit any comments related to potential new success criteria as soon as possible, before 13 September 2017.",
+            "content_html": "<p>A new Working Draft of <a href=\"https://www.w3.org/TR/WCAG21/\">Web Content Accessibility Guidelines 2.1</a> has been published. This is the last Working Draft before the Working Group stops adding new requirements to WCAG 2.1. A draft is planned for September that will comprise the final set of new success criteria. In November a draft will be published that incorporates those changes from the September draft, and is intended to be the final version beginning implementation testing.<strong>Please submit any comments related to potential new success criteria as soon as possible</strong>, before 13 September 2017.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-08-16/wcag-21-working-draft-for-review/",
+            
+            
+            
+            
+            
+            "date_published": "2017-08-16T00:00:00+00:00",
+            "date_modified": "2017-08-16T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-06-07/updated-web-accessibility-laws-and-policies-listing/",
+            "title": "Updated: Web Accessibility Laws and Policies Listing",
+            "summary": null,
+            "content_text": "The Web Accessibility Laws and Policies list has been updated and now includes an overview table with filters and sortable columns. Additional information is available in the Web Accessibility Laws and Policies Listing Updated e-mail.",
+            "content_html": "<p>The <a href=\"https://www.w3.org/WAI/Policy/Overview\">Web Accessibility Laws and Policies</a> list has been updated and now includes an overview table with filters and sortable columns. Additional information is available in the <a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2017AprJun/0195.html\">Web Accessibility Laws and Policies Listing Updated</a> e-mail.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-06-07/updated-web-accessibility-laws-and-policies-listing/",
+            
+            
+            
+            
+            
+            "date_published": "2017-06-07T00:00:00+00:00",
+            "date_modified": "2017-06-07T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-06-06/personalization-semantics-10-first-public-working-draft/",
+            "title": "Personalization Semantics 1.0 First Public Working Draft",
+            "summary": null,
+            "content_text": "Personalization Semantics 1.0 has been published as a First Public Working Draft. Personalization involves tailoring aspects of the user experience to meet the needs and prefences of the user. The introduction of standardized semantics allows web applications to customize the exposure of that content to one that is familiar to individuals based on their needs and preferences. This specification was initially developed in a task force to provide technology features needed to meet needs of users with cognitive or learning disabilities, but is intended to support a wide variety of personalization use cases. Please comment by filing GitHub issues in the personalization semantics repository or, if this is not feasible, by email to public-aria@w3.org, by 30 June 2017. Read about the Accessible Rich Internet Applications Working Group and the Web Accessibility Initiative (WAI).",
+            "content_html": "<p><a href=\"https://www.w3.org/personalization-semantics-1.0/\">Personalization Semantics 1.0</a> has been published as a First Public Working Draft. Personalization involves tailoring aspects of the user experience to meet the needs and prefences of the user. The introduction of standardized semantics allows web applications to customize the exposure of that content to one that is familiar to individuals based on their needs and preferences. This specification was initially developed in a task force to provide technology features needed to meet needs of users with cognitive or learning disabilities, but is intended to support a wide variety of personalization use cases. Please comment by filing <a href=\"https://github.com/w3c/personalization-semantics/issues/\">GitHub issues in the personalization semantics repository</a> or, if this is not feasible, by email to <a href=\"mailto:public-aria@w3.org\">public-aria@w3.org</a>, by <strong>30 June 2017</strong>. Read about the <a href=\"https://www.w3.org/WAI/GL/\">Accessible Rich Internet Applications Working Group</a> and the <a href=\"http://www.w3.org/WAI/\">Web Accessibility Initiative (WAI)</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-06-06/personalization-semantics-10-first-public-working-draft/",
+            
+            
+            
+            
+            
+            "date_published": "2017-06-06T00:00:00+00:00",
+            "date_modified": "2017-06-06T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-06-06/digital-publishing-accessibility-api-mappings-10-is-a-candidate-recommendation/",
+            "title": "Digital Publishing Accessibility API Mappings 1.0 is a Candidate Recommendation",
+            "summary": null,
+            "content_text": "Digital Publishing Accessibility API Mappings (DPub-AAM) 1.0 has been published as a Candidate Recommendation and is now undergoing implementation finalization and testing. DPub-AAM describes how roles in the Digital Publishing WAI-ARIA Module 1.0 should be exposed to accessibility APIs. Implementation of this specification makes it possible for assistive technologies to provide enhanced navigation among landmarks unique to digitally-published documents, and to identify document-specific features which should be presented to the user, such as crossing a page boundary. These mappings will also be used in part for verifying implementation success of Digital Publishing WAI-ARIA Module 1.0 which is already a Candidate Recommendation. The draft implementation report shows the progress of testing. Please send                implementation information or comments by 7 July 2017.",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/dpub-aam-1.0/\">Digital Publishing Accessibility API Mappings (DPub-AAM) 1.0</a> has been published as a Candidate Recommendation and is now undergoing implementation finalization and testing. DPub-AAM describes how roles in the <a href=\"https://www.w3.org/TR/dpub-aria-1.0/\">Digital Publishing WAI-ARIA Module 1.0</a> should be exposed to accessibility APIs. Implementation of this specification makes it possible for assistive technologies to provide enhanced navigation among landmarks unique to digitally-published documents, and to identify document-specific features which should be presented to the user, such as crossing a page boundary. These mappings will also be used in part for verifying implementation success of Digital Publishing WAI-ARIA Module 1.0 which is already a Candidate Recommendation. The draft <a href=\"http://w3c.github.io/test-results/dpub-aam/all.html\">implementation report</a> shows the progress of testing. Please send                implementation information or comments by <strong>7 July 2017</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-06-06/digital-publishing-accessibility-api-mappings-10-is-a-candidate-recommendation/",
+            
+            
+            
+            
+            
+            "date_published": "2017-06-06T00:00:00+00:00",
+            "date_modified": "2017-06-06T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-05-06/accessibility-conformance-testing-act-rules-format-10-first-public-working-draft/",
+            "title": "Accessibility Conformance Testing (ACT) Rules Format 1.0 First Public Working Draft",
+            "summary": null,
+            "content_text": "Accessibility Conformance Testing (ACT) Rules Format 1.0 has been published as a First Public Working Draft. It specifies a common format for accessibility test rules, and how to write test procedures for quality assurance. It facilitates harmonization of automated, semi-automated, and manual accessibility testing approaches, and helps organizations to better document and share their testing methods. Please comment by 5 May 2017. More information is in the blog post WCAG Accessibility Conformance Testing (ACT); Read about the Accessibility Guidelines Working Group and the Web Accessibility Initiative (WAI)",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/act-rules-format/\">Accessibility Conformance Testing (ACT) Rules Format 1.0</a> has been published as a First Public Working Draft. It specifies a common format for accessibility test rules, and how to write test procedures for quality assurance. It facilitates harmonization of automated, semi-automated, and manual accessibility testing approaches, and helps organizations to better document and share their testing methods. Please comment by <strong>5 May 2017</strong>. More information is in the blog post <a href=\"https://www.w3.org/blog/2017/04/wcag-accessibility-conformance-testing-act/\">WCAG Accessibility Conformance Testing (ACT)</a>; Read about the <a href=\"https://www.w3.org/WAI/GL/\">Accessibility Guidelines Working Group</a> and the <a href=\"http://www.w3.org/WAI/\">Web Accessibility Initiative (WAI)</a></p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-05-06/accessibility-conformance-testing-act-rules-format-10-first-public-working-draft/",
+            
+            
+            
+            
+            
+            "date_published": "2017-05-06T00:00:00+00:00",
+            "date_modified": "2017-05-06T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-04-19/wcag-21-working-draft-april-2017/",
+            "title": "WCAG 2.1 Working Draft – April 2017",
+            "summary": null,
+            "content_text": "Web Content Accessibility Guidelines (WCAG) 2.1 Working Draft is updated. This  draft includes only success criteria that have been formally accepted by the Working Group, and not the \"proposed\" success criteria that were in the previous draft. The Working Group has not addressed all comments yet; they  are in queue for upcoming work. We plan to publish updated drafts monthly, to encourage timely review of the success criteria that the Working Group has approved. More information is in the WCAG 2.1 April 2017 announcement and WCAG 2.1 status. Please comment by 9  May 2017.",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/WCAG21/\">Web Content Accessibility Guidelines (WCAG) 2.1</a> Working Draft is updated. This  draft includes only success criteria that have been formally accepted by the Working Group, and not the \"proposed\" success criteria that were in the previous draft. The Working Group has not addressed all comments yet; they  are in queue for upcoming work. We plan to publish updated drafts monthly, to encourage timely review of the success criteria that the Working Group has approved. More information is in the <a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2017AprJun/0026.html\">WCAG 2.1 April 2017 announcement</a> and <a href=\"https://www.w3.org/WAI/GL/wiki/WCAG_2.1_Status\">WCAG 2.1 status</a>. Please comment by <strong>9  May 2017</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-04-19/wcag-21-working-draft-april-2017/",
+            
+            
+            
+            
+            
+            "date_published": "2017-04-19T00:00:00+00:00",
+            "date_modified": "2017-04-19T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-04-18/updated-tutorials-on-web-accessibility/",
+            "title": "Updated: Tutorials on Web Accessibility",
+            "summary": null,
+            "content_text": "Web Accessibility Tutorials on Menus, Page Structure, Forms, Images, Tables, and Carousels have been updated. These tutorials show you how to create web content that is accessible to people with disabilities and that improves the user experience for all users. They include general guidance, and specific examples for HTML5 and WAI-ARIA.",
+            "content_html": "<p><a href=\"http://www.w3.org/WAI/tutorials/\">Web Accessibility Tutorials</a> on Menus, Page Structure, Forms, Images, Tables, and Carousels have been <a href=\"https://www.w3.org/WAI/tutorials/changelog/\">updated</a>. These tutorials show you how to create web content that is accessible to people with disabilities and that improves the user experience for all users. They include general guidance, and specific examples for HTML5 and <a href=\"/wai-website/standards-guidelines/aria/\">WAI-ARIA</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-04-18/updated-tutorials-on-web-accessibility/",
+            
+            
+            
+            
+            
+            "date_published": "2017-04-18T00:00:00+00:00",
+            "date_modified": "2017-04-18T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2017-02-28/web-content-accessibility-guidelines-21-first-public-working-draft/",
+            "title": "Web Content Accessibility Guidelines 2.1 First Public Working Draft",
+            "summary": null,
+            "content_text": "Web Content Accessibility Guidelines (WCAG) 2.1 has been published as a First Public Working Draft. Sites that conform to WCAG 2.1 will also conform to WCAG 2.0, which means they meet the requirements of any policies that reference WCAG 2.0. This first draft includes 28 new Success Criteria, three of which have been formally accepted by the Working Group and the remainder included as proposals to provide an opportunity for early feedback. Further information is available in the blog post: Web Content Accessibility Guidelines 2.1 First Public Working Draft. Please comment by 31 March 2017. Read about the Accessibility Guidelines Working Group and the Web Accessibility Initiative (WAI)",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/WCAG21/\">Web Content Accessibility Guidelines (WCAG) 2.1</a> has been published as a First Public Working Draft. Sites that conform to WCAG 2.1 will also conform to WCAG 2.0, which means they meet the requirements of any policies that reference WCAG 2.0. This first draft includes 28 new Success Criteria, three of which have been formally accepted by the Working Group and the remainder included as proposals to provide an opportunity for early feedback. Further information is available in the <a href=\"https://www.w3.org/blog/2017/02/wcag21-fpwd/\">blog post: Web Content Accessibility Guidelines 2.1 First Public Working Draft</a>. Please comment by <strong>31 March 2017</strong>. Read about the <a href=\"https://www.w3.org/WAI/GL/\">Accessibility Guidelines Working Group</a> and the <a href=\"http://www.w3.org/WAI/\">Web Accessibility Initiative (WAI)</a></p>",
+            "url": "https://w3c.github.io/wai-website/news/2017-02-28/web-content-accessibility-guidelines-21-first-public-working-draft/",
+            
+            
+            
+            
+            
+            "date_published": "2017-02-28T00:00:00+00:00",
+            "date_modified": "2017-02-28T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2016-12-16/updated-easy-checks-a-first-review-of-web-accessibility/",
+            "title": "Updated: Easy Checks - A First Review of Web Accessibility",
+            "summary": null,
+            "content_text": "WAI's Education and Outreach Working Group (EOWG) has updated Easy Checks - A First Review of Web Accessibility. This resource helps you start to assess the accessibility of a web page. With these simple steps, you can get an idea whether or not accessibility is addressed in even the most basic way. These checks cover just a few accessibility issues and are designed to be quick and easy, rather than definitive. This update includes a new check on Moving, Flashing, or Blinking Content and instructions for the Web Developer Toolbar for multiple browsers.",
+            "content_html": "<p>WAI's Education and Outreach Working Group (EOWG) has updated <a href=\"/wai-website/test-evaluation/preliminary/ \">Easy Checks - A First Review of Web Accessibility</a>. This resource helps you start to assess the accessibility of a web page. With these simple steps, you can get an idea whether or not accessibility is addressed in even the most basic way. These checks cover just a few accessibility issues and are designed to be quick and easy, rather than definitive. This update includes a new check on <a href=\"/wai-website/test-evaluation/preliminary/#moving\">Moving, Flashing, or Blinking Content</a> and instructions for the Web Developer Toolbar for multiple browsers.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2016-12-16/updated-easy-checks-a-first-review-of-web-accessibility/",
+            
+            
+            
+            
+            
+            "date_published": "2016-12-16T00:00:00+00:00",
+            "date_modified": "2016-12-16T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2016-10-12/wcag-21-under-exploration/",
+            "title": "WCAG 2.1 under exploration",
+            "summary": null,
+            "content_text": "The Web Content Accessibility Guidelines Working Group announces a plan to develop WCAG 2.1, which builds on but does not supersede WCAG 2.0. We request feedback as early as possible, and by 1 November 2016. ",
+            "content_html": "<p>The Web Content Accessibility Guidelines Working Group <a href=\"https://www.w3.org/blog/2016/10/wcag-2-1-under-exploration/\">announces a plan</a> to develop WCAG 2.1, which builds on but does not supersede WCAG 2.0. We request feedback as early as possible, and by <strong>1 November 2016</strong>. </p>",
+            "url": "https://w3c.github.io/wai-website/news/2016-10-12/wcag-21-under-exploration/",
+            
+            
+            
+            
+            
+            "date_published": "2016-10-12T00:00:00+00:00",
+            "date_modified": "2016-10-12T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2016-10-07/updated-october-2016-understanding-wcag-wcag-techniques/",
+            "title": "Updated October 2016: Understanding WCAG & WCAG Techniques",
+            "summary": null,
+            "content_text": "Updated supporting documents for WCAG 2.0 were published today: Techniques for WCAG 2.0 and Understanding WCAG 2.0. (This is not an update to WCAG 2.0, which is a stable document.)",
+            "content_html": "<p>Updated supporting documents for WCAG 2.0 were published today: <a href=\"https://www.w3.org/TR/WCAG20-TECHS/\">Techniques for WCAG 2.0</a> and <a href=\"https://www.w3.org/TR/UNDERSTANDING-WCAG20/\">Understanding WCAG 2.0</a>. (This is not an update to WCAG 2.0, which is a stable document.)</p>",
+            "url": "https://w3c.github.io/wai-website/news/2016-10-07/updated-october-2016-understanding-wcag-wcag-techniques/",
+            
+            
+            
+            
+            
+            "date_published": "2016-10-07T00:00:00+00:00",
+            "date_modified": "2016-10-07T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2016-09-20/video-pages-updated-perspectives-on-web-accessibility-essential-for-some-useful-for-all/",
+            "title": "Video Pages Updated: Perspectives on Web Accessibility — Essential for Some, Useful for All",
+            "summary": null,
+            "content_text": " Web Accessibility Perspectives explores the impact of accessibility for people with disabilities and the benefits for everyone. This resource introduces 10 web accessibility topics with short videos, brief descriptions, and links to learn more. The videos relate the benefits of accessibility to everyone in different situations, and encourage viewers to learn more about web accessibility.For links to playlists, request for specific feedback, and more information, see the Updated Video Pages e-mail.",
+            "content_html": "<p><a href=\"/wai-website/perspective-videos//\"><span class=\"video-thumb\"><img src=\"https://www.w3.org/WAI/images/perspectives_thumb.jpg\" alt=\"\" class=\"border1c60\" /></span></a> <a href=\"/wai-website/perspective-videos//\">Web Accessibility Perspectives</a> explores the impact of accessibility for people with disabilities and the benefits for everyone. This resource introduces 10 web accessibility topics with short videos, brief descriptions, and links to learn more. The videos relate the benefits of accessibility to everyone in different situations, and encourage viewers to learn more about web accessibility.</p><p>For links to playlists, request for specific feedback, and more information, see the <a href=\"https://lists.w3.org/Archives/Public/w3c-wai-ig/2016JulSep/0274.html\">Updated Video Pages e-mail</a>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2016-09-20/video-pages-updated-perspectives-on-web-accessibility-essential-for-some-useful-for-all/",
+            
+            
+            
+            
+            
+            "date_published": "2016-09-20T00:00:00+00:00",
+            "date_modified": "2016-09-20T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://w3c.github.io/wai-website/news/2016-09-08/for-review-wai-aria-graphics-module-graphics-accessibility-api-mappings-and-svg-accessibility-api-mappings/",
+            "title": "For Review: WAI-ARIA Graphics Module, Graphics Accessibility API Mappings, and SVG Accessibility API Mappings",
+            "summary": null,
+            "content_text": "A First Public Working Draft of Graphics Accessibility API Mappings, along with updated Working Drafts of WAI-ARIA Graphics Module and SVG Accessibility API Mappings are available for review. Please send comments by 30 September 2016.",
+            "content_html": "<p>A First Public Working Draft of <a href=\"http://www.w3.org/TR/2016/Wd-graphics-aam-1.0-20160908/\">Graphics Accessibility API Mappings</a>, along with updated Working Drafts of <a href=\"http://www.w3.org/TR/2016/WD-graphics-aria-1.0-20160908/\">WAI-ARIA Graphics Module</a> and <a href=\"http://www.w3.org/TR/2016/WD-svg-aam-1.0-20160908/\">SVG Accessibility API Mappings</a> are available for review. Please send comments by <strong>30 September 2016</strong>.</p>",
+            "url": "https://w3c.github.io/wai-website/news/2016-09-08/for-review-wai-aria-graphics-module-graphics-accessibility-api-mappings-and-svg-accessibility-api-mappings/",
+            
+            
+            
+            
+            
+            "date_published": "2016-09-08T00:00:00+00:00",
+            "date_modified": "2016-09-08T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        }
+    
+    ]
+}
