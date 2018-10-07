@@ -450,7 +450,7 @@ var tipuesearch = {"pages": [{
     "url": "/WAI/sitemap/"
   },{
     "title": "Get WAI News",
-    "text": "You can get announcements of new WAI resources, draft documents for review, etc. from: WAI Announcement e-mail list - This list is for announcements from WAI. To subscribe, send e-mail to public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;. To unsubscribe, send e-mail to public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;. You can also see the WAI Announce List Archives. WAI IG Discussion e-mail list - All announcements sent to the WAI Announcement list will also be sent to the WAI IG list, so you don't need to subscribe to both lists. The WAI IG list is open to the public for discussing web accessibility issues. For information on subscribing and posting messages, see WAI IG Mailing List. W3C_WAI on Twitter WAI News listing",
+    "text": "You can get announcements of new WAI publications, draft documents for review, etc. from: WAI Announcement e-mail list - This list is for announcements from WAI. To subscribe, send e-mail to public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;. To unsubscribe, send e-mail to public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;. You can also see the WAI Announce List Archives. WAI IG Discussion e-mail list - All announcements sent to the WAI Announcement list will also be sent to the WAI IG list, so you don't need to subscribe to both lists. The WAI IG list is open to the public for discussing web accessibility issues. For information on subscribing and posting messages, see WAI IG Mailing List. Atom/RSS feed from June 2018 to present W3C_WAI on Twitter WAI News from 2015 to present is listed on the News page.",
     "tags": "",
     "url": "/WAI/news/subscribe/"
   },{
@@ -644,7 +644,7 @@ var tipuesearch = {"pages": [{
     "tags": "",
     "url": "/WAI/standards-guidelines/wcag-mobile-overlap/"
   },{
-    "title": "Acknowledgements",
+    "title": "Acknowledgements - Web Accessibility Perspectives",
     "text": "This Web Accessibility Perspectives resource was developed by the Education Outreach Working Group (EOWG) with support from the WAI-DEV project, co-funded by the European Commission. Project Leadership Editor and Project Lead: Shadi Abou-Zahra, W3C WAI Task Force Participants: Shadi Abou-Zahra, W3C WAI Brent Bakken, Pearson Adina Halter, Comcast EOWG Co-Chairs: Sharron Rush, Knowbility Brent Bakken, Pearson EOWG Staff Contact: Shawn Lawton Henry, W3C WAI Major Contributors Adina Halter, Comcast Kevin White, W3C WAI Shawn Lawton Henry, W3C WAI Eric Eggert, W3C WAI Sally Cain, RNIB Contributing EOWG Participants Andrew Arch Anna Belle Leiserson Brent Bakken Caleb Watson David Berman Eric Eggert Kevin White George Heake Howard Kramer James Green Judy Brewer Laura Keen Lydia Harkey Paul Schantz Shadi Abou-Zahra Sharron Rush Shawn Lawton Henry Susan Hewitt Sylvie Duchateau Victoria Menezes Miller Wayne Dick Special Thanks Alan Benson Artur Ortega Christiane Link Faezeh Seyedarabi Jeff Harvey Mercer HappyGuidedog Peter Janecek Sarah Bailey Many thanks also to Claudia Lee, Rachel Siegel, and George Parkes.",
     "tags": "",
     "url": "/WAI/perspective-videos/acknowledgements/"
