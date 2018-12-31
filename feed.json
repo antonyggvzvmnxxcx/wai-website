@@ -13,12 +13,54 @@
 "items": [
     
         {
-            "id": "https://www.w3.org/WAI/news/2018-11-29/Develop-Accessibility-Statement/",
+            "id": "https://www.w3.org/WAI/news/2018-12-18/accessible-name-and-description-computation-accname-is-a-w3c-recommendation/",
+            "title": "Accessible Name and Description Computation (Accname) is a W3C Recommendation",
+            "summary": null,
+            "content_text": "Accessible Name and Description Computation 1.1 (“Accname”) was published today as a “W3C Recommendation” web standard. It describes how browsers and other user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users.",
+            "content_html": "<p><a href=\"https://www.w3.org/TR/accname-1.1/\">Accessible Name and Description Computation 1.1</a> (“Accname”) was published today as a “W3C Recommendation” web standard. It describes how browsers and other user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users.</p>",
+            "url": "https://www.w3.org/WAI/news/2018-12-18/accessible-name-and-description-computation-accname-is-a-w3c-recommendation/",
+            
+            
+            
+            
+            
+            "date_published": "2018-12-18T00:00:00+00:00",
+            "date_modified": "2018-12-18T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://www.w3.org/WAI/news/2018-12-06/pronunciation-task-force-seeking-participation/",
+            "title": "Pronunciation Task Force: Seeking Participation",
+            "summary": null,
+            "content_text": "The Pronunciation Task Force is seeking contributors who would like to help the Web do a better job pronouncing content through text to speech (TTS), including screen readers. See additional information in the APA Announces Pronunciation Task Force blog post.",
+            "content_html": "<p>The Pronunciation Task Force is seeking contributors who would like to help the Web do a better job pronouncing content through text to speech (TTS), including screen readers. See additional information in the <a href=\"https://www.w3.org/blog/2018/12/pronunciation-task-force/\">APA Announces Pronunciation Task Force blog post</a>.</p>",
+            "url": "https://www.w3.org/WAI/news/2018-12-06/pronunciation-task-force-seeking-participation/",
+            
+            
+            
+            
+            
+            "date_published": "2018-12-06T00:00:00+00:00",
+            "date_modified": "2018-12-06T00:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://www.w3.org/WAI/news/2018-11-29/develop-accessibility-statement/",
             "title": "New Resource: Developing an Accessibility Statement",
             "summary": null,
             "content_text": "Developing an Accessibility Statement helps you create an accessibility statement for your website, mobile app, or other digital content. It includes a free generator tool and examples. The tool helps you collect and enter relevant information to create an accessibility statement for your particular content and situation. See more information in How to Create Accessibility Statements blog post.",
             "content_html": "<p><a href=\"https://www.w3.org/WAI/planning/statements/\">Developing an Accessibility Statement</a> helps you create an accessibility statement for your website, mobile app, or other digital content. It includes a free generator tool and examples. The tool helps you collect and enter relevant information to create an accessibility statement for your particular content and situation. See more information in <a href=\"https://www.w3.org/blog/2018/11/how-to-create-accessibility-statements/\">How to Create Accessibility Statements blog post</a>.</p>",
-            "url": "https://www.w3.org/WAI/news/2018-11-29/Develop-Accessibility-Statement/",
+            "url": "https://www.w3.org/WAI/news/2018-11-29/develop-accessibility-statement/",
             
             
             
@@ -47,6 +89,27 @@
             
             "date_published": "2018-11-09T09:00:00+00:00",
             "date_modified": "2018-11-09T09:00:00+00:00",
+            
+                "author": 
+                "w3c_wai"
+                
+            
+        },
+    
+        {
+            "id": "https://www.w3.org/WAI/news/2018-10-18/for-review-personalization-documents/",
+            "title": "For Review: Personalization Documents",
+            "summary": null,
+            "content_text": "The updated Personalization Semantics Explainer Working Draft provides an introduction to personalizing the user experience to meet the needs and preferences of users, and to current work on specifications to support personalization. Personalization Working Drafts published today include: Personalization Semantics Content Module, Personalization Help and Support, and Personalization Tools. The Personalization Task Force is seeking advice on choosing an implementation mechanism; see the Issue under Vocabulary Implementations.",
+            "content_html": "<p>The updated <a href=\"https://www.w3.org/TR/personalization-semantics-1.0/\">Personalization Semantics Explainer</a> Working Draft provides an introduction to personalizing the user experience to meet the needs and preferences of users, and to current work on specifications to support personalization. Personalization Working Drafts published today include: Personalization Semantics Content Module, Personalization Help and Support, and Personalization Tools. The Personalization Task Force is seeking advice on choosing an implementation mechanism; see the Issue under <a href=\"https://www.w3.org/TR/personalization-semantics-1.0/#vocabulary-implementations\">Vocabulary Implementations</a>.</p>",
+            "url": "https://www.w3.org/WAI/news/2018-10-18/for-review-personalization-documents/",
+            
+            
+            
+            
+            
+            "date_published": "2018-10-18T00:00:00+00:00",
+            "date_modified": "2018-10-18T00:00:00+00:00",
             
                 "author": 
                 "w3c_wai"
@@ -698,69 +761,6 @@
             
             "date_published": "2017-02-28T00:00:00+00:00",
             "date_modified": "2017-02-28T00:00:00+00:00",
-            
-                "author": 
-                "w3c_wai"
-                
-            
-        },
-    
-        {
-            "id": "https://www.w3.org/WAI/news/2016-12-16/updated-easy-checks-a-first-review-of-web-accessibility/",
-            "title": "Updated: Easy Checks - A First Review of Web Accessibility",
-            "summary": null,
-            "content_text": "WAI's Education and Outreach Working Group (EOWG) has updated Easy Checks - A First Review of Web Accessibility. This resource helps you start to assess the accessibility of a web page. With these simple steps, you can get an idea whether or not accessibility is addressed in even the most basic way. These checks cover just a few accessibility issues and are designed to be quick and easy, rather than definitive. This update includes a new check on Moving, Flashing, or Blinking Content and instructions for the Web Developer Toolbar for multiple browsers.",
-            "content_html": "<p>WAI's Education and Outreach Working Group (EOWG) has updated <a href=\"/WAI/test-evaluation/preliminary/ \">Easy Checks - A First Review of Web Accessibility</a>. This resource helps you start to assess the accessibility of a web page. With these simple steps, you can get an idea whether or not accessibility is addressed in even the most basic way. These checks cover just a few accessibility issues and are designed to be quick and easy, rather than definitive. This update includes a new check on <a href=\"/WAI/test-evaluation/preliminary/#moving\">Moving, Flashing, or Blinking Content</a> and instructions for the Web Developer Toolbar for multiple browsers.</p>",
-            "url": "https://www.w3.org/WAI/news/2016-12-16/updated-easy-checks-a-first-review-of-web-accessibility/",
-            
-            
-            
-            
-            
-            "date_published": "2016-12-16T00:00:00+00:00",
-            "date_modified": "2016-12-16T00:00:00+00:00",
-            
-                "author": 
-                "w3c_wai"
-                
-            
-        },
-    
-        {
-            "id": "https://www.w3.org/WAI/news/2016-10-12/wcag-21-under-exploration/",
-            "title": "WCAG 2.1 under exploration",
-            "summary": null,
-            "content_text": "The Web Content Accessibility Guidelines Working Group announces a plan to develop WCAG 2.1, which builds on but does not supersede WCAG 2.0. We request feedback as early as possible, and by 1 November 2016. ",
-            "content_html": "<p>The Web Content Accessibility Guidelines Working Group <a href=\"https://www.w3.org/blog/2016/10/wcag-2-1-under-exploration/\">announces a plan</a> to develop WCAG 2.1, which builds on but does not supersede WCAG 2.0. We request feedback as early as possible, and by <strong>1 November 2016</strong>. </p>",
-            "url": "https://www.w3.org/WAI/news/2016-10-12/wcag-21-under-exploration/",
-            
-            
-            
-            
-            
-            "date_published": "2016-10-12T00:00:00+00:00",
-            "date_modified": "2016-10-12T00:00:00+00:00",
-            
-                "author": 
-                "w3c_wai"
-                
-            
-        },
-    
-        {
-            "id": "https://www.w3.org/WAI/news/2016-10-07/updated-october-2016-understanding-wcag-wcag-techniques/",
-            "title": "Updated October 2016: Understanding WCAG & WCAG Techniques",
-            "summary": null,
-            "content_text": "Updated supporting documents for WCAG 2.0 were published today: Techniques for WCAG 2.0 and Understanding WCAG 2.0. (This is not an update to WCAG 2.0, which is a stable document.)",
-            "content_html": "<p>Updated supporting documents for WCAG 2.0 were published today: <a href=\"https://www.w3.org/TR/WCAG20-TECHS/\">Techniques for WCAG 2.0</a> and <a href=\"https://www.w3.org/TR/UNDERSTANDING-WCAG20/\">Understanding WCAG 2.0</a>. (This is not an update to WCAG 2.0, which is a stable document.)</p>",
-            "url": "https://www.w3.org/WAI/news/2016-10-07/updated-october-2016-understanding-wcag-wcag-techniques/",
-            
-            
-            
-            
-            
-            "date_published": "2016-10-07T00:00:00+00:00",
-            "date_modified": "2016-10-07T00:00:00+00:00",
             
                 "author": 
                 "w3c_wai"
