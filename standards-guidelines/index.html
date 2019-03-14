@@ -10,13 +10,13 @@
 
     function downloadJSAtOnload() {
       var element = document.createElement("script");
-      element.src = "/WAI/assets/scripts/main.js?1552300877279009121";
+      element.src = "/WAI/assets/scripts/main.js?1552589546155897644";
       document.body.appendChild(element);
     }
 
     window.addEventListener("load", downloadJSAtOnload, false);
   </script>
-  <link rel="stylesheet" href="/WAI/assets/css/style.css?1552300877279009121">
+  <link rel="stylesheet" href="/WAI/assets/css/style.css?1552589546155897644">
 
 
   <title> W3C Accessibility Standards Overview | Web Accessibility Initiative (WAI) | W3C</title><!-- Begin Jekyll SEO tag v2.5.0 -->
@@ -208,10 +208,12 @@
   </li>
   <li><a href="#technical-specifications" id="markdown-toc-technical-specifications">Technical Specifications</a>    <ul>
       <li><a href="#aria" id="markdown-toc-aria">Accessible Rich Internet Applications (WAI-ARIA)</a></li>
-      <li><a href="#multimedia" id="markdown-toc-multimedia">For Audio and Video</a></li>
-      <li><a href="#eval" id="markdown-toc-eval">For Evaluation</a></li>
+      <li><a href="#multimedia" id="markdown-toc-multimedia">Audio and Video</a></li>
+      <li><a href="#eval" id="markdown-toc-eval">Evaluation</a></li>
+      <li><a href="#personalization" id="markdown-toc-personalization">Personalization</a></li>
     </ul>
   </li>
+  <li><a href="#other-areas-of-w3c-wai-work" id="markdown-toc-other-areas-of-w3c-wai-work">Other Areas of W3C WAI work</a></li>
   <li><a href="#moreinfo" id="markdown-toc-moreinfo">Additional Information</a></li>
 </ul>
 
@@ -223,13 +225,15 @@
 
 <h2 id="intro">Introduction</h2>
 
-<p>The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets ">CSS</abbr>, and many more. W3C’s Web standards are called <dfn>W3C Recommendations</dfn>.</p>
+<p>The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, and many more. W3C’s Web standards are called <dfn>W3C Recommendations</dfn>.</p>
 
 <p>All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures (<a href="/WAI/about/groups/apawg/">APA</a>) Working Group.</p>
 
 <p>The W3C standards and Working Group Notes introduced below are particularly relevant to accessibility.</p>
 
 <h2 id="guidelines">Accessibility Guidelines</h2>
+
+<p><a href="/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.&lt;/strong&gt;</p>
 
 <h3 id="wcag">Web Content Accessibility Guidelines (WCAG)</h3>
 
@@ -240,7 +244,7 @@
   <li>code or markup that defines structure, presentation, etc.</li>
 </ul>
 
-<p>WCAG applies to dynamic content, multimedia, “mobile”, etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in <a href="https://www.w3.org/WAI/intro/wcag2ict">WCAG2ICT</a>.</p>
+<p>WCAG applies to dynamic content, multimedia, “mobile”, etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in <a href="/WAI/standards-guidelines/wcag/non-web-ict/">WCAG2ICT</a>.</p>
 
 <p>WCAG info:</p>
 <ul>
@@ -262,7 +266,7 @@
 <p>ATAG info:</p>
 <ul>
   <li><a href="/WAI/standards-guidelines/atag/">ATAG Overview</a></li>
-  <li><a href="https://www.w3.org/WAI/intro/atag-glance">ATAG at a Glance</a></li>
+  <li><a href="/WAI/standards-guidelines/atag/glance/">ATAG at a Glance</a></li>
   <li><a href="https://www.w3.org/TR/ATAG/">ATAG 2.0 Standard</a></li>
 </ul>
 
@@ -291,7 +295,7 @@
   <li><a href="https://www.w3.org/TR/wai-aria-1.1/">WAI-ARIA 1.1 Standard</a></li>
 </ul>
 
-<h3 id="multimedia">For Audio and Video</h3>
+<h3 id="multimedia">Audio and Video</h3>
 
 <ul>
   <li>
@@ -302,7 +306,7 @@
   </li>
 </ul>
 
-<h3 id="eval">For Evaluation</h3>
+<h3 id="eval">Evaluation</h3>
 
 <p>The following resources support development of accessibility evaluation methods and tools:</p>
 
@@ -315,26 +319,44 @@
   </li>
 </ul>
 
+<p>Additional resources related to evaluation are listed in the <a href="/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a>, including:</p>
+
+<ul>
+  <li><a href="/WAI/test-evaluate/conformance/wcag-em/">WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology</a> — WCAG-EM is an approach for determining how well a website conforms to Web Content Accessibility Guidelines (WCAG).</li>
+</ul>
+
+<h3 id="personalization">Personalization</h3>
+
+<p><a href="/WAI/personalization/">Personalization Overview</a> — Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.</p>
+
+<h2 id="other-areas-of-w3c-wai-work">Other Areas of W3C WAI work</h2>
+
+<ul>
+  <li>
+    <p><a href="/WAI/mobile/">Mobile Accessibility at W3C</a></p>
+  </li>
+  <li>
+    <p><a href="/WAI/cognitive/">Cognitive Accessibility at W3C</a></p>
+  </li>
+</ul>
+
 <h2 id="moreinfo">Additional Information</h2>
 
 <ul>
   <li>
-    <p><strong><a href="https://www.w3.org/TR/#tr_Accessibility__All_">List of all W3C accessibility-related standards (“Recommendations”) and Working Group Notes</a></strong></p>
+    <p><a href="https://www.w3.org/TR/#tr_Accessibility__All_">List of all W3C accessibility-related Standards (“W3C Recommendations”) and Working Group Notes</a></p>
   </li>
   <li>
-    <p><strong><a href="https://www.w3.org/WAI/intro/components">Essential Components of Web Accessibility</a> shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong></p>
+    <p><a href="/WAI/policies/">Web Accessibility Laws &amp; Policies</a> lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.</p>
   </li>
   <li>
-    <p><a href="https://www.w3.org/WAI/Policy/harmon">Why Standards Harmonization is Essential to Web Accessibility</a></p>
+    <p><a href="/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a></p>
   </li>
   <li>
-    <p><a href="https://www.w3.org/WAI/mobile/">Mobile Accessibility at W3C</a></p>
+    <p><a href="/WAI/standards-guidelines/linking/">Referencing and Linking to WAI Guidelines and Technical Documents</a></p>
   </li>
   <li>
-    <p><a href="http://www.w3.org/WAI/intro/linking">Referencing and Linking to WAI Guidelines and Technical Documents</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.w3.org/WAI/intro/w3c-process">How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and <strong>Opportunities to Contribute</strong></a></p>
+    <p><a href="/WAI/standards-guidelines/w3c-process/">How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and <strong>Opportunities to Contribute</strong></a></p>
   </li>
 </ul>
 
@@ -368,7 +390,7 @@
   
   <footer class="page-footer default-grid" aria-label="Page">
     <div class="inner">
-      <p><strong>Date:</strong> Updated 8 January 2018.</p> <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p> <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+      <p><strong>Date:</strong> Updated 13 March 2019.</p> <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p> <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
     </div>
   </footer>
@@ -397,9 +419,9 @@
     </ul>
   </div>
 </footer><!-- Details4Everybody -->
-<script src="/WAI/assets/scripts/details4everybody.js?1552300877279009121"></script>
+<script src="/WAI/assets/scripts/details4everybody.js?1552589546155897644"></script>
 <!-- SVG4Everybody -->
-<script src="/WAI/assets/scripts/svg4everybody.js?1552300877279009121"></script>
+<script src="/WAI/assets/scripts/svg4everybody.js?1552589546155897644"></script>
 <script>
   svg4everybody();
 </script>
