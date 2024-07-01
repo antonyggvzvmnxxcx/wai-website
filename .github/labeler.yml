@@ -1,5 +1,11 @@
 accessible-events:
   - wai-accessible-events
+accessibility-training:
+  - wai-accessibility-training
+audiences:
+  - wai-audiences
+business-case:
+  - wai-business-case
 cognitive:
   - wai-cognitive
 combined-expertise:
@@ -16,6 +22,8 @@ eval-report-template:
   - wai-eval-report-template
 eval-standards:
   - wai-eval-standards
+evaluation-overview:
+  - wai-evaluation-overview
 evaluation-tools:
   - wai-evaluation-tools
 first-aid:
@@ -26,6 +34,8 @@ intro-act:
   - wai-intro-act
 intro-aria:
   - wai-intro-aria
+intro-atag:
+  - wai-intro-atag
 intro-earl:
   - wai-intro-earl
 intro-linking:
@@ -36,6 +46,8 @@ involving-users-eval:
   - wai-involving-users-eval
 involving-users:
   - wai-involving-users
+media-guide:
+  - wai-media-guide
 mobile:
   - wai-mobile
 news:
@@ -44,6 +56,10 @@ older-users:
   - wai-older-users
 org-policies:
   - wai-org-policies
+people-use-web:
+  - wai-people-use-web
+planning-managing:
+  - wai-planning-managing
 planning-policies:
   - wai-planning-policies
 pronunciation:
