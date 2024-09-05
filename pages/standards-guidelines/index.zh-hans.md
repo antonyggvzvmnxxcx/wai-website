@@ -13,10 +13,7 @@ translators:
 
 ref: /standards-guidelines/ # Do not change this
 changelog: /standards-guidelines/changelog/
-layout: default
 github:
-  repository: w3c/wai-website
-  path: pages/standards-guidelines/index.zh-hans.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
   label: wai-standards-guidelines
 permalink: /standards-guidelines/zh-hans   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
@@ -143,7 +140,7 @@ ARIA 信息：
 
 ### 个性化
 
-[[个性化概述]](/personalization/) &mdash; 个性化涉及定制用户体验以满足个人用户的需求和偏好。内容作者可以使用个性化标准来提供默认设计，并以最少的工作实现用户个性化。
+[[个性化概述]](/adapt/) &mdash; 个性化涉及定制用户体验以满足个人用户的需求和偏好。内容作者可以使用个性化标准来提供默认设计，并以最少的工作实现用户个性化。
 ### 个性化
 
 ### 发音

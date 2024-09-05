@@ -31,14 +31,15 @@ exclude:
   - "vendor"
 # Build settings
 markdown: kramdown
-kramwdown:
+kramdown:
   toc_levels: 2..3
   input: GFM
   syntax_highlighter: rouge
 highlighter: rouge
 repository: w3c/wai-website
+branch: master
 
-ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
+ytkey: AIzaSyBzq155tA3E3gaYlRdx2S9U9FM78U1-568
 
 # remote_themes are an extension for Jekyll running in GitHub pages and are a GitHub repo 
 remote_theme: w3c/wai-website-theme
@@ -55,25 +56,6 @@ collections:
     output: true
     acknowledgements: true
     permalink: /:collection/:path/
-  people-use-web:
-    area: "Accessibility Fundamentals"
-    name: "How People with Disabilities Use the Web"
-    output: true
-    acknowledgements: false
-    permalink: /:collection/:path/
-  planning-and-managing:
-    area: "Plan and Manage"
-    name: "Planning and Managing"
-    output: true
-    acknowledgements: false
-    permalink: /:collection/:path/
-  accessibility-training:
-    area: "Teach & Advocate"
-    name: "Accessibility Training"
-    shortname: Trainings
-    output: true
-    acknowledgements: false
-    permalink: /teach-advocate/:collection/:path/
   tips:
     area: "All Areas"
     name: "Tips for Getting Started"
@@ -94,19 +76,11 @@ collections:
       <p><strong>Editors:</strong> <a href="https://www.w3.org/People/kevin/">Kevin White</a>, Britt Classen, Michel Hansma, Vera Lange, Eric Velleman. <strong>Previous Editors:</strong> Mary Jo Mueller, Robert Jolly, Eric Eggert, Judy Brewer, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Previous contributors: Jennifer Sutton and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
       <p>Developed by the Accessibility Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
   audiences:
-    # area: "Plan & Manage"
     name: "Roles"
     shortname: "Roles"
     output: true
-    acknowledgements: false
     permalink: /roles/:path/
-    prevnext: false
     parent: "/"
-  about:
-    name: "About"
-    output: true
-    acknowledgements: false
-    permalink: /:collection/:path/
     prevnext: false
   posts:
     output: true
@@ -126,9 +100,6 @@ collections:
     title: Glossary
     permalink: /:collection/:name/
     output: true
-  apg-examples:
-    output: true
-    permalink: /ARIA/apg/example-index/:path/
   translations-sitemaps:
     permalink: /about/translating/sitemaps/:name
     output: true
@@ -146,41 +117,15 @@ defaults:
       github:
         repository: w3c/wai-perspective-videos
   - scope:
-      path: "_people-use-web"
-    values:
-      layout: "default"
-      github:
-        repository: w3c/wai-people-use-web
-  - scope:
-      path: "_planning-and-managing"
-    values:
-      layout: "default"
-      github:
-        repository: w3c/wai-dynamic-planning
-  - scope:
-      path: "_accessibility-training"
-    values:
-      layout: "default"
-      github:
-        repository: w3c/wai-develop-training
-  - scope:
       path: "_tips"
     values:
       layout: "default"
-      github:
-        repository: w3c/wai-quick-start
   - scope:
       path: "_policies"
     values:
       layout: "policy"
       github:
         repository: w3c/wai-policies-prototype
-  - scope:
-      path: "_about"
-    values:
-      layout: "default"
-      github:
-        repository: w3c/wai-about-wai
   - scope:
       path: "_posts"
     values:
@@ -191,8 +136,6 @@ defaults:
       path: "_audiences"
     values:
       layout: "sidenav"
-      github:
-        repository: w3c/wai-audiences
   -
     scope: 
       type: "patterns"
@@ -322,27 +265,6 @@ defaults:
         - name: About
           ref: /ARIA/apg/about/
   -
-    scope: 
-      type: "apg-examples"
-      path: "_apg-examples"
-    values:
-      layout: "standalone_resource"
-      standalone_resource_header:
-        title: "ARIA Authoring Practices Guide (APG)"
-        title-ref: /ARIA/apg/
-        subtitle: "How to build accessibility semantics into web patterns and widgets"
-      standalone_resource_nav_links:
-        - name: APG Home
-          ref: /ARIA/apg/
-        - name: Patterns
-          ref: /ARIA/apg/patterns/
-        - name: Practices
-          ref: /ARIA/apg/practices/
-        - name: Index
-          ref: /ARIA/apg/example-index/
-        - name: About
-          ref: /ARIA/apg/about/
-  -
     scope:
       path: "pages/wai-course-list"
     values:
@@ -362,8 +284,6 @@ defaults:
     scope:
       path: "_translations-sitemaps"
     values:
-      github:
-        repository: w3c/wai-website
       lang: en
       layout: translation-sitemap
       description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
@@ -376,7 +296,6 @@ defaults:
           margin: 0.2rem 0 0.4rem;
         }
 
-
 # include all collections here so they are searchable
 tipue_search:
   include:
@@ -385,16 +304,28 @@ tipue_search:
       [
         "wai-wcag-act-rules-patterns",
         "perspective-videos",
-        "people-use-web",
-        "planning-and-managing",
-        "accessibility-training",
         "tips",
         "policies",
         "audiences",
-        "about",
-        "objectives", 
+        "objectives",
         "patterns",
-        "apg-examples"
+        "translations-sitemaps"
+      ]
+  exclude:
+    files:
+      [
+        "pages/wai-aria-practices/patterns/landmarks/examples/HTML5.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/at.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/banner.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/complementary.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/contentinfo.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/form.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/general-principles.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/main.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/navigation.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/region.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/resources.html",
+        "pages/wai-aria-practices/patterns/landmarks/examples/search.html",
       ]
 
 # TODO docs say don't need to declare any used in the Theme

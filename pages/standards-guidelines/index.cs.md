@@ -15,10 +15,8 @@ translators:
 
 ref: /standards-guidelines/   # Do not change this
 changelog: /standards-guidelines/changelog/
-layout: default
 github:
-  repository: w3c/wai-website
-  path: pages/standards-guidelines/index.cs.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  label: wai-standards-guidelines
 permalink: /standards-guidelines/cs   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
 
@@ -142,7 +140,7 @@ Další zdroje související s hodnocením jsou v [[Přehledu hodnocení webové
 
 ### Personalizace
 
-[[Přehled personalizace]](/personalization/) &mdash; Personalizace zahrnuje přizpůsobení uživatelského prožitku tak, aby splňoval potřeby a preference jednotlivých uživatelů. Autoři obsahu mohou použít standardy pro personalizaci, aby poskytli základní design a umožnili uživatelskou personalizaci s minimem námahy.
+[[Přehled personalizace]](/adapt/) &mdash; Personalizace zahrnuje přizpůsobení uživatelského prožitku tak, aby splňoval potřeby a preference jednotlivých uživatelů. Autoři obsahu mohou použít standardy pro personalizaci, aby poskytli základní design a umožnili uživatelskou personalizaci s minimem námahy.
 
 ### Výslovnost
 
